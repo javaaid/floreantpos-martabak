@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="9b1f6186-3f83-4f0e-a38d-3facc3c867d9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jpos" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/All_Jars.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Leonar_Tambunan.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/derby.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i18n/messages_in_ID.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/net.authorize.aim.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/floreantpos.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\actualsize.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\actualsize.GIF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c10.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c10.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c230.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c230.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b00.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b00.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b11.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b11.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b20.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b20.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b31.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2c60.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2c60.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2d20.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2d20.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2db0.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2db0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2dd0.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2dd0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2de1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2de1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e40.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e40.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e51.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e80.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e80.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e91.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e91.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2ea0.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2ea0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f51.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f61.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f61.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f71.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f81.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f81.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c30f1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c30f1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3101.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3101.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3111.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3111.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3121.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3121.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3131.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3131.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3141.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3141.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3151.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3151.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3161.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3161.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3171.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3171.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3181.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3181.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3191.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3191.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c31a1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c31a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c31b1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c31b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c31c1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c31c1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3211.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3211.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3241.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3241.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3251.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3251.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3261.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3261.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3271.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3271.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3281.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3281.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3291.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3291.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c32a1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c32a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c32b1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c32b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3561.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3561.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3571.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c3571.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c90.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c90.dat" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\first.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\first.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\first.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\first.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitpage.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitpage.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitwidth.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitwidth.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos\110\jpos-110.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos\110\jpos-110.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos-controls\110\jpos-controls-110.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos-controls\110\jpos-controls-110.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\jricon.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\jricon.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\net\xeoh\jspf.core\1.0.2\jspf.core-1.0.2.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos\local-lib\net\xeoh\jspf.core\1.0.2\jspf.core-1.0.2.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\last.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\last.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\last.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\last.GIF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/log/log.ctrl" afterPath="$PROJECT_DIR$/database/derby-server/posdb/log/log.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/log/log6.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/log/log6.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/database/derby-server/posdb/log/logmirror.ctrl" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\next.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\next.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\next.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\next.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\previous.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\previous.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\previous.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\previous.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\print.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\print.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\redo.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\redo.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\reload.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\reload.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\save.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\save.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\save.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\save.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undo.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undo.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undoall.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undoall.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomin.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomin.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomout.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomout.GIF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/net/sf/jasperreports/engine/print/JRPrinterAWT.java" afterPath="$PROJECT_DIR$/src/net/sf/jasperreports/engine/print/JRPrinterAWT.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jasper" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jasper" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/TicketReceiptView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/TicketReceiptView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/db.lck" afterPath="$PROJECT_DIR$/database/derby-server/posdb/db.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/derby.log" afterPath="$PROJECT_DIR$/database/derby-server/derby.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i18n/messages_id_ID.properties" afterPath="$PROJECT_DIR$/i18n/messages_id_ID.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/ticket/ticket_receipt.jrxml" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/ticket/ticket_receipt.jrxml" />
+    </list>
+    <ignored path="floreantpos.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="floreantpos" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="JRPrinterAWT.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/sf/jasperreports/engine/print/JRPrinterAWT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1341" max-vertical-offset="3864">
+              <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseValueObjectVariableDefinitions.svm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.hibernateSynchronizer3/snippets/BaseValueObjectVariableDefinitions.svm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="27.78125" vertical-offset="1036" max-vertical-offset="1575">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="net.authorize.aim.log" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/net.authorize.aim.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoryExplorerAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/actions/CategoryExplorerAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="530">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/floreantpos/model/inventory/dao/BaseRecepieDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/model/MerchantGateway.java" />
+        <option value="$PROJECT_DIR$/i18n/messages.properties" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml" />
+        <option value="$PROJECT_DIR$/etc/jpos.xml" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/swing/JRViewerPanel.java" />
+        <option value="$PROJECT_DIR$/i18n/messages_id_ID.properties" />
+        <option value="$PROJECT_DIR$/i18n/messages_in_ID.properties" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/SalesAnalysisReportModel.java" />
+        <option value="$PROJECT_DIR$/src/br/com/caelum/vraptor/jasperreports/formats/Txt.java" />
+        <option value="$PROJECT_DIR$/src/br/com/caelum/vraptor/jasperreports/download/ReportDownload.java" />
+        <option value="$PROJECT_DIR$/src/br/com/caelum/vraptor/jasperreports/exporter/DefaultExporter.java" />
+        <option value="$PROJECT_DIR$/floreantpos.iml" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/engine/print/JRPrinterAWT.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/CreditCardReportView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/JournalReportView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/MenuUsageReportView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesBalanceReportView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/ServerProductivityReportView.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/engine/export/HtmlExporterHyperlinkProducerAdapter.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/ant/JRAntXmlExportTask.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/ant/JRBaseAntTask.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/components/barbecue/BarcodeProviders.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/components/barbecue/BaseBarcodeProvider.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/components/barbecue/BarcodeProvider.java" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/olap/JRMondrianQueryExecuter.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/TicketDetailView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/TicketReceiptView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/ticket/ticket_receipt.jrxml" />
+        <option value="$PROJECT_DIR$/src/net/sf/jasperreports/engine/export/JRTextExporter.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="dependencyTypes" value="jar, maven-plugin, ejb, ejb-client, jboss-har, jboss-sar, war, ear, bundle" />
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1384" />
+    <option name="height" value="752" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="unused-library(library:project:commons-lang-2.6)" />
+    </ignored-problems>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasperreports" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swing" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasperreports" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bo" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bo" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="C:/Downloads/jasperreports-4.8.0-project.tar/jasperreports-4.8.0-project/jasperreports-4.8.0/lib" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5095477" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\src\com\floreantpos\report" />
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\local-lib" />
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\src" />
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\i18n" />
+      <recent name="D:\floreantpos\local-lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\local-lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.floreantpos.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.floreantpos.main.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="floreantpos" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.floreantpos.main.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="floreantpos" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Leonar Tambunan\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos\.idea" />
+          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b1f6186-3f83-4f0e-a38d-3facc3c867d9" name="Default" comment="" />
+      <created>1411664352475</created>
+      <updated>1411664352475</updated>
+      <workItem from="1411664354090" duration="1879000" />
+      <workItem from="1411668008191" duration="1405000" />
+      <workItem from="1411691371602" duration="473000" />
+      <workItem from="1411697107943" duration="3565000" />
+      <workItem from="1411702752338" duration="1223000" />
+      <workItem from="1411748075838" duration="54000" />
+      <workItem from="1411748647435" duration="2090000" />
+      <workItem from="1411753325076" duration="783000" />
+      <workItem from="1411800733100" duration="614000" />
+      <workItem from="1411819302709" duration="52000" />
+      <workItem from="1411962290575" duration="1778000" />
+      <workItem from="1411968840002" duration="10000" />
+      <workItem from="1411968872815" duration="2461000" />
+      <workItem from="1411998793878" duration="503000" />
+      <workItem from="1412038646061" duration="4829000" />
+      <workItem from="1412147724709" duration="27000" />
+      <workItem from="1412305915723" duration="3769000" />
+      <workItem from="1412330646555" duration="8623000" />
+      <workItem from="1412356546174" duration="2645000" />
+      <workItem from="1412383223592" duration="609000" />
+      <workItem from="1412384355018" duration="3501000" />
+      <workItem from="1412402936527" duration="4742000" />
+      <workItem from="1412416295419" duration="4380000" />
+      <workItem from="1412420864637" duration="605000" />
+      <workItem from="1412421774891" duration="105000" />
+      <workItem from="1412421883395" duration="715000" />
+      <workItem from="1412430551744" duration="2429000" />
+      <workItem from="1412432999987" duration="498000" />
+      <workItem from="1412433548801" duration="1697000" />
+      <workItem from="1412465961515" duration="273000" />
+      <workItem from="1412466288069" duration="23743000" />
+      <workItem from="1412514833087" duration="439000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1412416529692</created>
+      <updated>1412416529692</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1412416972583</created>
+      <updated>1412416972583</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1412417470878</created>
+      <updated>1412417470878</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1412419663367</created>
+      <updated>1412419663367</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1412420156125</created>
+      <updated>1412420156125</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1412420913567</created>
+      <updated>1412420913567</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1412421092807</created>
+      <updated>1412421092807</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1412421120454</created>
+      <updated>1412421120454</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1412421135312</created>
+      <updated>1412421135312</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1412421182977</created>
+      <updated>1412421182977</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1412421247705</created>
+      <updated>1412421247705</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1412421265987</created>
+      <updated>1412421265987</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1412421325031</created>
+      <updated>1412421325031</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1412421468652</created>
+      <updated>1412421468652</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1412421910039</created>
+      <updated>1412421910039</updated>
+    </task>
+    <task id="LOCAL-00016">
+      <created>1412421924588</created>
+      <updated>1412421924588</updated>
+    </task>
+    <task id="LOCAL-00017">
+      <created>1412421957344</created>
+      <updated>1412421957344</updated>
+    </task>
+    <task id="LOCAL-00018">
+      <created>1412421981270</created>
+      <updated>1412421981270</updated>
+    </task>
+    <task id="LOCAL-00019">
+      <created>1412422001163</created>
+      <updated>1412422001163</updated>
+    </task>
+    <task id="LOCAL-00020">
+      <created>1412422033520</created>
+      <updated>1412422033520</updated>
+    </task>
+    <task id="LOCAL-00021">
+      <created>1412422046998</created>
+      <updated>1412422046998</updated>
+    </task>
+    <task id="LOCAL-00022">
+      <created>1412422058428</created>
+      <updated>1412422058428</updated>
+    </task>
+    <task id="LOCAL-00023">
+      <created>1412422364235</created>
+      <updated>1412422364235</updated>
+    </task>
+    <task id="LOCAL-00024">
+      <created>1412422408210</created>
+      <updated>1412422408210</updated>
+    </task>
+    <task id="LOCAL-00025">
+      <created>1412422421011</created>
+      <updated>1412422421011</updated>
+    </task>
+    <task id="LOCAL-00026">
+      <created>1412422441103</created>
+      <updated>1412422441103</updated>
+    </task>
+    <task id="LOCAL-00027">
+      <created>1412422451257</created>
+      <updated>1412422451257</updated>
+    </task>
+    <task id="LOCAL-00028">
+      <created>1412422462545</created>
+      <updated>1412422462545</updated>
+    </task>
+    <task id="LOCAL-00029">
+      <created>1412422493994</created>
+      <updated>1412422493994</updated>
+    </task>
+    <task id="LOCAL-00030">
+      <created>1412422509116</created>
+      <updated>1412422509116</updated>
+    </task>
+    <task id="LOCAL-00031">
+      <created>1412422532617</created>
+      <updated>1412422532617</updated>
+    </task>
+    <task id="LOCAL-00032">
+      <created>1412422546122</created>
+      <updated>1412422546122</updated>
+    </task>
+    <task id="LOCAL-00033">
+      <created>1412422565911</created>
+      <updated>1412422565911</updated>
+    </task>
+    <task id="LOCAL-00034">
+      <created>1412432288307</created>
+      <updated>1412432288307</updated>
+    </task>
+    <task id="LOCAL-00035">
+      <created>1412432792366</created>
+      <updated>1412432792366</updated>
+    </task>
+    <task id="LOCAL-00036">
+      <created>1412432860327</created>
+      <updated>1412432860327</updated>
+    </task>
+    <task id="LOCAL-00037">
+      <created>1412433240392</created>
+      <updated>1412433240392</updated>
+    </task>
+    <task id="LOCAL-00038">
+      <created>1412433250370</created>
+      <updated>1412433250370</updated>
+    </task>
+    <task id="LOCAL-00039">
+      <created>1412433269478</created>
+      <updated>1412433269478</updated>
+    </task>
+    <task id="LOCAL-00040">
+      <created>1412514722371</created>
+      <updated>1412514722371</updated>
+    </task>
+    <task id="LOCAL-00041">
+      <created>1412515093207</created>
+      <updated>1412515093207</updated>
+    </task>
+    <task id="LOCAL-00042">
+      <created>1412515120813</created>
+      <updated>1412515120813</updated>
+    </task>
+    <task id="LOCAL-00043">
+      <created>1412515141961</created>
+      <updated>1412515141961</updated>
+    </task>
+    <task id="LOCAL-00044">
+      <created>1412515169110</created>
+      <updated>1412515169110</updated>
+    </task>
+    <task id="LOCAL-00045">
+      <created>1412515201288</created>
+      <updated>1412515201288</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80519000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1384" height="752" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56125826" sideWeight="0.6413374" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.87086093" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49172187" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33586627" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36018237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4321192" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="91" y="91" width="1178" height="552" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.67705166" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/sf/jasperreports/engine/export/JRTextExporter.java</url>
+          <line>627</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/sf/jasperreports/engine/export/JRTextExporter.java</url>
+          <line>368</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/net/sf/jasperreports/engine/print/JRPrinterAWT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1341" max-vertical-offset="3864">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.7/src.zip!/javax/swing/plaf/PanelUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38674033" vertical-offset="0" max-vertical-offset="543">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.7/src.zip!/javax/swing/JPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1814" max-vertical-offset="4305">
+          <caret line="134" column="14" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/TicketReceiptView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="672">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/TicketDetailView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1587" max-vertical-offset="1995">
+          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/dialog/TransactionCompletionDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1428" max-vertical-offset="3066">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/PaymentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4074" max-vertical-offset="7980">
+          <caret line="243" column="0" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/dialog/POSDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1431" max-vertical-offset="1974">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/order/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2163" max-vertical-offset="2877">
+          <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/order/TicketView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3129" max-vertical-offset="11004">
+          <caret line="203" column="30" selection-start-line="203" selection-start-column="30" selection-end-line="203" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/actions/SettleTicketAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="478" max-vertical-offset="777">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jasper">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4767">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/SettleTicketView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53172207" vertical-offset="5263" max-vertical-offset="11403">
+          <caret line="309" column="0" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/print/PosPrintService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.886792" vertical-offset="756" max-vertical-offset="19173">
+          <caret line="367" column="0" selection-start-line="367" selection-start-column="0" selection-end-line="367" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/ticket/ticket_receipt.jrxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.017204301" vertical-offset="1084" max-vertical-offset="5502">
+          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/ticket/TicketItemRowCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="790" max-vertical-offset="2646">
+          <caret line="53" column="52" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3473" max-vertical-offset="11655">
+          <caret line="191" column="47" selection-start-line="191" selection-start-column="47" selection-end-line="191" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/base/BaseTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15871" max-vertical-offset="16401">
+          <caret line="895" column="48" selection-start-line="895" selection-start-column="48" selection-end-line="895" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReportTXT.jasper">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3108">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5454545" vertical-offset="0" max-vertical-offset="7854">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="444" max-vertical-offset="1533">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicletHeaderReport.jrxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35699797" vertical-offset="2260" max-vertical-offset="2835">
+          <caret line="116" column="22" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/jasperreports/swing/JRViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48924732" vertical-offset="231" max-vertical-offset="4242">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/sf/jasperreports/engine/print/JRPrinterAWT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1341" max-vertical-offset="3864">
+          <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.hibernateSynchronizer3/snippets/BaseValueObjectVariableDefinitions.svm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="27.78125" vertical-offset="1036" max-vertical-offset="1575">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/net.authorize.aim.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/actions/CategoryExplorerAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="530">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10121457" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10121457" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5095477" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.10121457" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>floreantpos</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5095477" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>All Jars</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5095477" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

@@ -1,0 +1,3028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYSIS_IN_BACKGROUND" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="floreantpos:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" line="109" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="9b1f6186-3f83-4f0e-a38d-3facc3c867d9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local-lib/httpasyncclient-4.0.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local-lib/httpasyncclient-cache-4.0.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local-lib/httpclient-4.3.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local-lib/httpclient-cache-4.3.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local-lib/httpcore-4.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local-lib/httpcore-nio-4.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local-lib/sigar.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/derby.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/net.authorize.aim.log" />
+      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos\resources\META-INF\mvn-assembly.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/asm-1.5.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/asm-attrs-1.5.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/asm-commons-3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/asm-tree-3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/cglib-2.1_3.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\httpclient-4.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\httpcore-4.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jasperreports-4.0.1.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jasper" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jasper" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\actualsize.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\actualsize.GIF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c10.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c10.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c101.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c101.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c101.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c101.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c111.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c111.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c111.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c111.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c121.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c121.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c121.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c121.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c130.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c130.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c130.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c130.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c141.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c141.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c141.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c141.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c150.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c150.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c150.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c150.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c161.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c161.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c161.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c161.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c171.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c171.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c171.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c171.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c180.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c180.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c191.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c191.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1a1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1b1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1c0.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1c0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1d1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1d1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1e0.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1e0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1f1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c1f1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c20.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c20.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c20.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c20.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c200.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c200.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c200.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c200.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c211.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c211.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c211.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c211.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c221.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c221.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c221.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c221.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c230.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c230.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c230.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c230.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c241.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c241.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c251.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c251.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c260.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c260.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c271.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c271.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c281.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c281.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c290.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c290.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2a1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2b1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2c1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2c1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2d0.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2d0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2e1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f0.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c2f0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c31.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c31.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c41.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c41.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c41.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c41.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c470.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c470.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c481.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c481.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c490.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c490.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c4a1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c4a1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c4b0.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c4b0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c4c1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c4c1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c51.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c51.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c550.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c550.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c561.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c561.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c570.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c570.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c60.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c60.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c60.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c60.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c71.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c71.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c720.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c720.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c740.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c740.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c751.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c751.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c81.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c81.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c81.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c81.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c860.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c860.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c8a0.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c8a0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c8d0.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c8d0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c8f0.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c8f0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c90.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c90.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c90.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c90.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c910.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c910.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c921.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c921.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c970.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c970.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c981.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c981.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c9f0.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c9f0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ca01.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ca01.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/ca1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/ca1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ca1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ca1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ca10.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ca10.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cae1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cae1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/caf1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/caf1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb01.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb01.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/cb1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/cb1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb11.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb11.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb21.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb21.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb31.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb51.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb61.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb61.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb71.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cb71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/cc0.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/cc0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cc0.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cc0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cce1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cce1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ccf1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ccf1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cd01.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cd01.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/cd1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/cd1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cd1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cd1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cd81.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cd81.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cd91.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cd91.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cda1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cda1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cdb1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cdb1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cdc1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cdc1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cdd1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cdd1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cde1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cde1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cdf1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cdf1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce01.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce01.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/ce1.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/ce1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce11.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce11.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce21.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce21.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce31.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce41.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce41.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce51.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce61.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce61.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce71.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce81.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/ce81.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cec1.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cec1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/cf0.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/cf0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf0.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf11.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf11.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf21.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf21.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf31.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf41.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf41.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf51.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf61.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf61.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf71.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf81.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf81.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\first.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\first.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\first.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\first.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitpage.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitpage.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitwidth.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitwidth.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos\110\jpos-110.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos\110\jpos-110.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos-controls\110\jpos-controls-110.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos-controls\110\jpos-controls-110.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\jricon.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\jricon.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\net\xeoh\jspf.core\1.0.2\jspf.core-1.0.2.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos\local-lib\net\xeoh\jspf.core\1.0.2\jspf.core-1.0.2.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\last.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\last.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\last.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\last.GIF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/log/log.ctrl" afterPath="$PROJECT_DIR$/database/derby-server/posdb/log/log.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/log/log.ctrl" afterPath="$PROJECT_DIR$/database/derby-single/posdb/log/log.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/database/derby-server/posdb/log/logmirror.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/database/derby-single/posdb/log/logmirror.ctrl" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\next.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\next.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\next.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\next.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\previous.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\previous.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\previous.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\previous.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\print.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\print.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\redo.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\redo.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\reload.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\reload.GIF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_sub_report.jasper" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_sub_report.jasper" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\save.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\save.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\save.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\save.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undo.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undo.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undoall.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undoall.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomin.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomin.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomout.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomout.GIF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/All_Jars.xml" afterPath="$PROJECT_DIR$/.idea/libraries/All_Jars.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/main/Main.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/main/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/util/NumberUtil.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/util/NumberUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/PasswordScreen.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/PasswordScreen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/PaymentView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/PaymentView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/main/PosWindow.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/main/PosWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReport.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReport.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/SalesReportPerTxnAction.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/SalesReportPerTxnAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReportTxnDetail.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReportTxnDetail.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/bo/ui/explorer/TicketExplorer.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/bo/ui/explorer/TicketExplorer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/order/TicketView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/order/TicketView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/bo/actions/ViewGratuitiesAction.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/bo/actions/ViewGratuitiesAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filters/app.properties" afterPath="$PROJECT_DIR$/filters/app.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/db.lck" afterPath="$PROJECT_DIR$/database/derby-server/posdb/db.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/db.lck" afterPath="$PROJECT_DIR$/database/derby-single/posdb/db.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/derby.log" afterPath="$PROJECT_DIR$/database/derby-server/derby.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floreantpos.config.properties" afterPath="$PROJECT_DIR$/floreantpos.config.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i18n/messages_in_ID.properties" afterPath="$PROJECT_DIR$/i18n/messages_in_ID.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_sub_report.jrxml" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_sub_report.jrxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/service.properties" afterPath="$PROJECT_DIR$/database/derby-server/posdb/service.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="floreantpos.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel url="file://$PROJECT_DIR$" />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="floreantpos" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="JReportPrintService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.0" vertical-offset="5868" max-vertical-offset="12648">
+              <caret line="256" column="67" selection-start-line="256" selection-start-column="67" selection-end-line="256" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="POSConstants.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/POSConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="9160" max-vertical-offset="9672">
+              <caret line="386" column="103" selection-start-line="386" selection-start-column="103" selection-end-line="386" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages_in_ID.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/i18n/messages_in_ID.properties">
+          <provider editor-type-id="ResourceBundle">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.76363635" vertical-offset="9678" max-vertical-offset="11544">
+              <caret line="405" column="37" selection-start-line="405" selection-start-column="37" selection-end-line="405" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppConfig.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2457" max-vertical-offset="4824">
+              <caret line="149" column="35" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwitchboardView.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18461539" vertical-offset="2592" max-vertical-offset="20328">
+              <caret line="143" column="34" selection-start-line="143" selection-start-column="34" selection-end-line="143" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_ticket_32.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/images/new_ticket_32.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeaturesView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.785714" vertical-offset="1518" max-vertical-offset="2208">
+              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/i18n/messages.properties">
+          <provider editor-type-id="ResourceBundle">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.2222223" vertical-offset="9240" max-vertical-offset="11496">
+              <caret line="392" column="0" selection-start-line="392" selection-start-column="0" selection-end-line="392" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TicketReceiptReport.jrxml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6296296" vertical-offset="193" max-vertical-offset="12864">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TicketReceiptReportTXT.jrxml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReportTXT.jrxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6296296" vertical-offset="193" max-vertical-offset="8496">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesSummaryReportView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/SalesExceptionReport.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/model/base/BaseRestaurant.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/model/Restaurant.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/DatabaseConfigurationView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/DatabaseConfigurationDialog.java" />
+        <option value="$PROJECT_DIR$/resources/hibernate.mysql.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/dialog/CashDropDialog.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/main/Application.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/main/MainMobile.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/util/NumberUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/dialog/LicenseDialog.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/PaymentView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/MainMenuAdditionalsView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/ConfigurationDialog.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/PasswordScreen.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/TaxConfigurationView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/dialog/CashDrawerReportDialog.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/ReportViewer.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/SalesReportPerTxnAction.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/SettleTicketView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/model/Gratuity.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/model/base/BaseTicket.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/model/dao/_RootDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/util/ReceiptUploader.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/RestaurantConfigurationView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/bo/actions/ViewGratuitiesAction.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/bo/ui/BackOfficeWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModel.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/TxnDetailReportItem.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/SalesReportTxnDetailModel.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReport.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_report_txn_detail.jrxml" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/model/dao/TicketDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReportTxnDetail.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/main/PosWindow.java" />
+        <option value="$PROJECT_DIR$/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/order/TicketView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/TicketDataSource.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/dialog/TransactionCompletionDialog.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/HostEnvConfigurationView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/swing/QwertyKeyPad.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/print/PosPrintService.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/model/dao/SalesSummaryDAO.java" />
+        <option value="$PROJECT_DIR$/i18n/messages_in_ID.properties" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/POSConstants.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="dependencyTypes" value="jar, maven-plugin, ejb, ejb-client, jboss-har, jboss-sar, war, ear, bundle" />
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1384" />
+    <option name="height" value="752" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Data flow issues</id>
+          </State>
+          <State>
+            <id>Data flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Initialization issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="unused-library(library:project:cglib-nodep-2.2.2)" />
+      <problem id="unused-library(library:project:commons-lang-2.6)" />
+      <problem id="unused-library(library:project:jasperreports-4.8.0)" />
+    </ignored-problems>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/local-lib/httpcore-4.3.2.jar!/" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2763819" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="59" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="84" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="83" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="37" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="126" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="892" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="64" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="79" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="83" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="63" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="63" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="942" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="floreantpos" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.floreantpos.report" />
+      <recent name="com.floreantpos.ui.report" />
+      <recent name="com.floreantpos.ui.report.actions" />
+      <recent name="com.floreantpos.config.ui" />
+      <recent name="com.floreantpos.ui.dialog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\local-lib" />
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\platform-lib" />
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\resources\images" />
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\src\com\floreantpos\report" />
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\src" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.floreantpos.AppConstants.ColumnName" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.floreantpos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Leonar Tambunan\floreantpos\local-lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.floreantpos.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.floreantpos.main.Main" />
+      <option name="VM_PARAMETERS" value="-Duser.locale=ID -Duser.language=in" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="floreantpos" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.floreantpos.main.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="floreantpos" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Leonar Tambunan\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos\.idea" />
+          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b1f6186-3f83-4f0e-a38d-3facc3c867d9" name="Default" comment="" />
+      <created>1411664352475</created>
+      <updated>1411664352475</updated>
+      <workItem from="1411664354090" duration="1879000" />
+      <workItem from="1411668008191" duration="1405000" />
+      <workItem from="1411691371602" duration="473000" />
+      <workItem from="1411697107943" duration="3565000" />
+      <workItem from="1411702752338" duration="1223000" />
+      <workItem from="1411748075838" duration="54000" />
+      <workItem from="1411748647435" duration="2090000" />
+      <workItem from="1411753325076" duration="783000" />
+      <workItem from="1411800733100" duration="614000" />
+      <workItem from="1411819302709" duration="52000" />
+      <workItem from="1411962290575" duration="1778000" />
+      <workItem from="1411968840002" duration="10000" />
+      <workItem from="1411968872815" duration="2461000" />
+      <workItem from="1411998793878" duration="503000" />
+      <workItem from="1412038646061" duration="4829000" />
+      <workItem from="1412147724709" duration="27000" />
+      <workItem from="1412305915723" duration="3769000" />
+      <workItem from="1412330646555" duration="8623000" />
+      <workItem from="1412356546174" duration="2645000" />
+      <workItem from="1412383223592" duration="609000" />
+      <workItem from="1412384355018" duration="3501000" />
+      <workItem from="1412402936527" duration="4742000" />
+      <workItem from="1412416295419" duration="4380000" />
+      <workItem from="1412420864637" duration="605000" />
+      <workItem from="1412421774891" duration="105000" />
+      <workItem from="1412421883395" duration="715000" />
+      <workItem from="1412430551744" duration="2429000" />
+      <workItem from="1412432999987" duration="498000" />
+      <workItem from="1412433548801" duration="1697000" />
+      <workItem from="1412465961515" duration="273000" />
+      <workItem from="1412466288069" duration="23743000" />
+      <workItem from="1412514833087" duration="711000" />
+      <workItem from="1412515603954" duration="8653000" />
+      <workItem from="1412525061053" duration="445000" />
+      <workItem from="1412552916584" duration="41000" />
+      <workItem from="1412557984120" duration="5000" />
+      <workItem from="1412560582283" duration="3951000" />
+      <workItem from="1412564621537" duration="3814000" />
+      <workItem from="1412570570869" duration="6040000" />
+      <workItem from="1412583629444" duration="611000" />
+      <workItem from="1412595641728" duration="3536000" />
+      <workItem from="1412600175823" duration="2503000" />
+      <workItem from="1412606995660" duration="4989000" />
+      <workItem from="1412663312091" duration="4857000" />
+      <workItem from="1412668512093" duration="124000" />
+      <workItem from="1412669001736" duration="26731000" />
+      <workItem from="1412724800979" duration="9977000" />
+      <workItem from="1412752252484" duration="12165000" />
+      <workItem from="1412813116876" duration="407000" />
+      <workItem from="1412991218318" duration="1901000" />
+      <workItem from="1413027775578" duration="464000" />
+      <workItem from="1413037086268" duration="6945000" />
+      <workItem from="1413116630009" duration="12085000" />
+      <workItem from="1413158286431" duration="2062000" />
+      <workItem from="1413165503008" duration="1722000" />
+      <workItem from="1413172486637" duration="3240000" />
+      <workItem from="1413176702051" duration="5246000" />
+      <workItem from="1413182740455" duration="122000" />
+      <workItem from="1413185691689" duration="167000" />
+      <workItem from="1413198547914" duration="12125000" />
+      <workItem from="1413246836425" duration="9042000" />
+      <workItem from="1413260664433" duration="5280000" />
+      <workItem from="1413273939108" duration="309000" />
+      <workItem from="1413287203447" duration="1382000" />
+      <workItem from="1413331517335" duration="1844000" />
+      <workItem from="1413335646037" duration="2965000" />
+      <workItem from="1413351267764" duration="50000" />
+      <workItem from="1413361258791" duration="13702000" />
+      <workItem from="1413422921625" duration="14853000" />
+      <workItem from="1413512091651" duration="13000" />
+      <workItem from="1413512468400" duration="526000" />
+      <workItem from="1413521247621" duration="707000" />
+      <workItem from="1413528086205" duration="536000" />
+      <workItem from="1413546931000" duration="3149000" />
+      <workItem from="1413627251862" duration="50000" />
+      <workItem from="1413629719569" duration="2017000" />
+      <workItem from="1413635319466" duration="435000" />
+      <workItem from="1413642087174" duration="4057000" />
+      <workItem from="1413771405479" duration="47000" />
+      <workItem from="1414030378739" duration="341000" />
+      <workItem from="1414036480229" duration="47000" />
+      <workItem from="1414123999502" duration="1252000" />
+      <workItem from="1414136328998" duration="30000" />
+      <workItem from="1414202120833" duration="4988000" />
+      <workItem from="1414209342992" duration="68000" />
+      <workItem from="1414231994387" duration="1043000" />
+      <workItem from="1414241265322" duration="24000" />
+      <workItem from="1414842269845" duration="6246000" />
+      <workItem from="1414849337710" duration="866000" />
+      <workItem from="1414928041867" duration="2610000" />
+      <workItem from="1414933038280" duration="6000" />
+      <workItem from="1415097352780" duration="721000" />
+      <workItem from="1415202940153" duration="154000" />
+      <workItem from="1415673288786" duration="1841000" />
+      <workItem from="1415693035114" duration="131000" />
+      <workItem from="1418395078010" duration="2337000" />
+      <workItem from="1418397624776" duration="2593000" />
+      <workItem from="1418400587192" duration="23000" />
+      <workItem from="1418402690185" duration="257000" />
+      <workItem from="1418790155444" duration="611000" />
+      <workItem from="1418821446073" duration="2731000" />
+      <workItem from="1418824752713" duration="442000" />
+      <workItem from="1418890645914" duration="343000" />
+      <workItem from="1418917568979" duration="5140000" />
+      <workItem from="1419089207866" duration="594000" />
+      <workItem from="1425276633259" duration="604000" />
+      <workItem from="1427358230850" duration="52000" />
+      <workItem from="1427358290057" duration="1318000" />
+      <workItem from="1427901563087" duration="660000" />
+      <workItem from="1428650098633" duration="89000" />
+      <workItem from="1428650492846" duration="276000" />
+      <workItem from="1431316065990" duration="8430000" />
+      <workItem from="1431328452595" duration="4347000" />
+      <workItem from="1431337676183" duration="3153000" />
+      <workItem from="1431360673281" duration="7215000" />
+      <workItem from="1431404276433" duration="1876000" />
+      <workItem from="1431421132638" duration="299000" />
+      <workItem from="1431422028061" duration="1465000" />
+      <workItem from="1431488083590" duration="1598000" />
+      <workItem from="1431697685302" duration="45000" />
+      <workItem from="1431697738124" duration="5566000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1412416529692</created>
+      <updated>1412416529692</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1412416972583</created>
+      <updated>1412416972583</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1412417470878</created>
+      <updated>1412417470878</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1412419663367</created>
+      <updated>1412419663367</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1412420156125</created>
+      <updated>1412420156125</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1412420913567</created>
+      <updated>1412420913567</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1412421092807</created>
+      <updated>1412421092807</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1412421120454</created>
+      <updated>1412421120454</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1412421135312</created>
+      <updated>1412421135312</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1412421182977</created>
+      <updated>1412421182977</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1412421247705</created>
+      <updated>1412421247705</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1412421265987</created>
+      <updated>1412421265987</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1412421325031</created>
+      <updated>1412421325031</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1412421468652</created>
+      <updated>1412421468652</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1412421910039</created>
+      <updated>1412421910039</updated>
+    </task>
+    <task id="LOCAL-00016">
+      <created>1412421924588</created>
+      <updated>1412421924588</updated>
+    </task>
+    <task id="LOCAL-00017">
+      <created>1412421957344</created>
+      <updated>1412421957344</updated>
+    </task>
+    <task id="LOCAL-00018">
+      <created>1412421981270</created>
+      <updated>1412421981270</updated>
+    </task>
+    <task id="LOCAL-00019">
+      <created>1412422001163</created>
+      <updated>1412422001163</updated>
+    </task>
+    <task id="LOCAL-00020">
+      <created>1412422033520</created>
+      <updated>1412422033520</updated>
+    </task>
+    <task id="LOCAL-00021">
+      <created>1412422046998</created>
+      <updated>1412422046998</updated>
+    </task>
+    <task id="LOCAL-00022">
+      <created>1412422058428</created>
+      <updated>1412422058428</updated>
+    </task>
+    <task id="LOCAL-00023">
+      <created>1412422364235</created>
+      <updated>1412422364235</updated>
+    </task>
+    <task id="LOCAL-00024">
+      <created>1412422408210</created>
+      <updated>1412422408210</updated>
+    </task>
+    <task id="LOCAL-00025">
+      <created>1412422421011</created>
+      <updated>1412422421011</updated>
+    </task>
+    <task id="LOCAL-00026">
+      <created>1412422441103</created>
+      <updated>1412422441103</updated>
+    </task>
+    <task id="LOCAL-00027">
+      <created>1412422451257</created>
+      <updated>1412422451257</updated>
+    </task>
+    <task id="LOCAL-00028">
+      <created>1412422462545</created>
+      <updated>1412422462545</updated>
+    </task>
+    <task id="LOCAL-00029">
+      <created>1412422493994</created>
+      <updated>1412422493994</updated>
+    </task>
+    <task id="LOCAL-00030">
+      <created>1412422509116</created>
+      <updated>1412422509116</updated>
+    </task>
+    <task id="LOCAL-00031">
+      <created>1412422532617</created>
+      <updated>1412422532617</updated>
+    </task>
+    <task id="LOCAL-00032">
+      <created>1412422546122</created>
+      <updated>1412422546122</updated>
+    </task>
+    <task id="LOCAL-00033">
+      <created>1412422565911</created>
+      <updated>1412422565911</updated>
+    </task>
+    <task id="LOCAL-00034">
+      <created>1412432288307</created>
+      <updated>1412432288307</updated>
+    </task>
+    <task id="LOCAL-00035">
+      <created>1412432792366</created>
+      <updated>1412432792366</updated>
+    </task>
+    <task id="LOCAL-00036">
+      <created>1412432860327</created>
+      <updated>1412432860327</updated>
+    </task>
+    <task id="LOCAL-00037">
+      <created>1412433240392</created>
+      <updated>1412433240392</updated>
+    </task>
+    <task id="LOCAL-00038">
+      <created>1412433250370</created>
+      <updated>1412433250370</updated>
+    </task>
+    <task id="LOCAL-00039">
+      <created>1412433269478</created>
+      <updated>1412433269478</updated>
+    </task>
+    <task id="LOCAL-00040">
+      <created>1412514722371</created>
+      <updated>1412514722371</updated>
+    </task>
+    <task id="LOCAL-00041">
+      <created>1412515093207</created>
+      <updated>1412515093207</updated>
+    </task>
+    <task id="LOCAL-00042">
+      <created>1412515120813</created>
+      <updated>1412515120813</updated>
+    </task>
+    <task id="LOCAL-00043">
+      <created>1412515141961</created>
+      <updated>1412515141961</updated>
+    </task>
+    <task id="LOCAL-00044">
+      <created>1412515169110</created>
+      <updated>1412515169110</updated>
+    </task>
+    <task id="LOCAL-00045">
+      <created>1412515201288</created>
+      <updated>1412515201288</updated>
+    </task>
+    <task id="LOCAL-00046">
+      <created>1412515293302</created>
+      <updated>1412515293302</updated>
+    </task>
+    <task id="LOCAL-00047">
+      <created>1412515315483</created>
+      <updated>1412515315483</updated>
+    </task>
+    <task id="LOCAL-00048">
+      <created>1412515712402</created>
+      <updated>1412515712402</updated>
+    </task>
+    <task id="LOCAL-00049">
+      <created>1412516156557</created>
+      <updated>1412516156557</updated>
+    </task>
+    <task id="LOCAL-00050">
+      <created>1412516168541</created>
+      <updated>1412516168543</updated>
+    </task>
+    <task id="LOCAL-00051">
+      <created>1412516960459</created>
+      <updated>1412516960459</updated>
+    </task>
+    <task id="LOCAL-00052">
+      <created>1412517216534</created>
+      <updated>1412517216534</updated>
+    </task>
+    <task id="LOCAL-00053">
+      <created>1412517434417</created>
+      <updated>1412517434417</updated>
+    </task>
+    <task id="LOCAL-00054">
+      <created>1412517449146</created>
+      <updated>1412517449147</updated>
+    </task>
+    <task id="LOCAL-00055">
+      <created>1412519865630</created>
+      <updated>1412519865631</updated>
+    </task>
+    <task id="LOCAL-00056">
+      <created>1412519872357</created>
+      <updated>1412519872357</updated>
+    </task>
+    <task id="LOCAL-00057">
+      <created>1412519890710</created>
+      <updated>1412519890710</updated>
+    </task>
+    <task id="LOCAL-00058">
+      <created>1412520466700</created>
+      <updated>1412520466700</updated>
+    </task>
+    <task id="LOCAL-00059">
+      <created>1412520474523</created>
+      <updated>1412520474523</updated>
+    </task>
+    <task id="LOCAL-00060">
+      <created>1412521413769</created>
+      <updated>1412521413769</updated>
+    </task>
+    <task id="LOCAL-00061">
+      <created>1412521420627</created>
+      <updated>1412521420627</updated>
+    </task>
+    <task id="LOCAL-00062">
+      <created>1412521642549</created>
+      <updated>1412521642549</updated>
+    </task>
+    <task id="LOCAL-00063">
+      <created>1412524265957</created>
+      <updated>1412524265958</updated>
+    </task>
+    <task id="LOCAL-00064">
+      <created>1412524276916</created>
+      <updated>1412524276916</updated>
+    </task>
+    <task id="LOCAL-00065">
+      <created>1412525505322</created>
+      <updated>1412525505323</updated>
+    </task>
+    <task id="LOCAL-00066">
+      <created>1412562876592</created>
+      <updated>1412562876592</updated>
+    </task>
+    <task id="LOCAL-00067">
+      <created>1412563206559</created>
+      <updated>1412563206559</updated>
+    </task>
+    <task id="LOCAL-00068">
+      <created>1412564524154</created>
+      <updated>1412564524154</updated>
+    </task>
+    <task id="LOCAL-00069">
+      <created>1412565797345</created>
+      <updated>1412565797345</updated>
+    </task>
+    <task id="LOCAL-00070">
+      <created>1412565805098</created>
+      <updated>1412565805098</updated>
+    </task>
+    <task id="LOCAL-00071">
+      <created>1412565812283</created>
+      <updated>1412565812283</updated>
+    </task>
+    <task id="LOCAL-00072">
+      <created>1412565826264</created>
+      <updated>1412565826264</updated>
+    </task>
+    <task id="LOCAL-00073">
+      <created>1412566013304</created>
+      <updated>1412566013304</updated>
+    </task>
+    <task id="LOCAL-00074">
+      <created>1412566328177</created>
+      <updated>1412566328177</updated>
+    </task>
+    <task id="LOCAL-00075">
+      <created>1412567103849</created>
+      <updated>1412567103849</updated>
+    </task>
+    <task id="LOCAL-00076">
+      <created>1412567142276</created>
+      <updated>1412567142276</updated>
+    </task>
+    <task id="LOCAL-00077">
+      <created>1412567194154</created>
+      <updated>1412567194154</updated>
+    </task>
+    <task id="LOCAL-00078">
+      <created>1412567201820</created>
+      <updated>1412567201820</updated>
+    </task>
+    <task id="LOCAL-00079">
+      <created>1412567651313</created>
+      <updated>1412567651313</updated>
+    </task>
+    <task id="LOCAL-00080">
+      <created>1412567657316</created>
+      <updated>1412567657317</updated>
+    </task>
+    <task id="LOCAL-00081">
+      <created>1412568424246</created>
+      <updated>1412568424246</updated>
+    </task>
+    <task id="LOCAL-00082">
+      <created>1412577258531</created>
+      <updated>1412577258531</updated>
+    </task>
+    <task id="LOCAL-00083">
+      <created>1412578791638</created>
+      <updated>1412578791638</updated>
+    </task>
+    <task id="LOCAL-00084">
+      <created>1412579438009</created>
+      <updated>1412579438009</updated>
+    </task>
+    <task id="LOCAL-00085">
+      <created>1412579466320</created>
+      <updated>1412579466320</updated>
+    </task>
+    <task id="LOCAL-00086">
+      <created>1412579611561</created>
+      <updated>1412579611561</updated>
+    </task>
+    <task id="LOCAL-00087">
+      <created>1412579621374</created>
+      <updated>1412579621374</updated>
+    </task>
+    <task id="LOCAL-00088">
+      <created>1412582920366</created>
+      <updated>1412582920366</updated>
+    </task>
+    <task id="LOCAL-00089">
+      <created>1412582926050</created>
+      <updated>1412582926050</updated>
+    </task>
+    <task id="LOCAL-00090">
+      <created>1412596532868</created>
+      <updated>1412596532869</updated>
+    </task>
+    <task id="LOCAL-00091">
+      <created>1412597264579</created>
+      <updated>1412597264579</updated>
+    </task>
+    <task id="LOCAL-00092">
+      <created>1412597271272</created>
+      <updated>1412597271272</updated>
+    </task>
+    <task id="LOCAL-00093">
+      <created>1412597282126</created>
+      <updated>1412597282126</updated>
+    </task>
+    <task id="LOCAL-00094">
+      <created>1412598568297</created>
+      <updated>1412598568297</updated>
+    </task>
+    <task id="LOCAL-00095">
+      <created>1412598657626</created>
+      <updated>1412598657626</updated>
+    </task>
+    <task id="LOCAL-00096">
+      <created>1412601181292</created>
+      <updated>1412601181292</updated>
+    </task>
+    <task id="LOCAL-00097">
+      <created>1412601453425</created>
+      <updated>1412601453425</updated>
+    </task>
+    <task id="LOCAL-00098">
+      <created>1412601789370</created>
+      <updated>1412601789370</updated>
+    </task>
+    <task id="LOCAL-00099">
+      <created>1412602616063</created>
+      <updated>1412602616064</updated>
+    </task>
+    <task id="LOCAL-00100">
+      <created>1412641099155</created>
+      <updated>1412641099155</updated>
+    </task>
+    <task id="LOCAL-00101">
+      <created>1412663375309</created>
+      <updated>1412663375309</updated>
+    </task>
+    <task id="LOCAL-00102">
+      <created>1412663528540</created>
+      <updated>1412663528540</updated>
+    </task>
+    <task id="LOCAL-00103">
+      <created>1412666905194</created>
+      <updated>1412666905194</updated>
+    </task>
+    <task id="LOCAL-00104">
+      <created>1412667162315</created>
+      <updated>1412667162315</updated>
+    </task>
+    <task id="LOCAL-00105">
+      <created>1412667319900</created>
+      <updated>1412667319900</updated>
+    </task>
+    <task id="LOCAL-00106">
+      <created>1412671965369</created>
+      <updated>1412671965369</updated>
+    </task>
+    <task id="LOCAL-00107">
+      <created>1412675408305</created>
+      <updated>1412675408306</updated>
+    </task>
+    <task id="LOCAL-00108">
+      <created>1412684354919</created>
+      <updated>1412684354919</updated>
+    </task>
+    <task id="LOCAL-00109">
+      <created>1412692507405</created>
+      <updated>1412692507405</updated>
+    </task>
+    <task id="LOCAL-00110">
+      <created>1412693522160</created>
+      <updated>1412693522160</updated>
+    </task>
+    <task id="LOCAL-00111">
+      <created>1412693630012</created>
+      <updated>1412693630012</updated>
+    </task>
+    <task id="LOCAL-00112">
+      <created>1412693770137</created>
+      <updated>1412693770137</updated>
+    </task>
+    <task id="LOCAL-00113">
+      <created>1412693876197</created>
+      <updated>1412693876197</updated>
+    </task>
+    <task id="LOCAL-00114">
+      <created>1412694180501</created>
+      <updated>1412694180501</updated>
+    </task>
+    <task id="LOCAL-00115">
+      <created>1412694189760</created>
+      <updated>1412694189760</updated>
+    </task>
+    <task id="LOCAL-00116">
+      <created>1412694335452</created>
+      <updated>1412694335452</updated>
+    </task>
+    <task id="LOCAL-00117">
+      <created>1412694472275</created>
+      <updated>1412694472275</updated>
+    </task>
+    <task id="LOCAL-00118">
+      <created>1412694633310</created>
+      <updated>1412694633310</updated>
+    </task>
+    <task id="LOCAL-00119">
+      <created>1412694784904</created>
+      <updated>1412694784904</updated>
+    </task>
+    <task id="LOCAL-00120">
+      <created>1412694791640</created>
+      <updated>1412694791640</updated>
+    </task>
+    <task id="LOCAL-00121">
+      <created>1412694867193</created>
+      <updated>1412694867193</updated>
+    </task>
+    <task id="LOCAL-00122">
+      <created>1412695518527</created>
+      <updated>1412695518527</updated>
+    </task>
+    <task id="LOCAL-00123">
+      <created>1412695651021</created>
+      <updated>1412695651022</updated>
+    </task>
+    <task id="LOCAL-00124">
+      <created>1412695659998</created>
+      <updated>1412695659998</updated>
+    </task>
+    <task id="LOCAL-00125">
+      <created>1412695669560</created>
+      <updated>1412695669560</updated>
+    </task>
+    <task id="LOCAL-00126">
+      <created>1412695677187</created>
+      <updated>1412695677187</updated>
+    </task>
+    <task id="LOCAL-00127">
+      <created>1412695684812</created>
+      <updated>1412695684812</updated>
+    </task>
+    <task id="LOCAL-00128">
+      <created>1412695976460</created>
+      <updated>1412695976460</updated>
+    </task>
+    <task id="LOCAL-00129">
+      <created>1412696094292</created>
+      <updated>1412696094292</updated>
+    </task>
+    <task id="LOCAL-00130">
+      <created>1412725261319</created>
+      <updated>1412725261319</updated>
+    </task>
+    <task id="LOCAL-00131">
+      <created>1412730831090</created>
+      <updated>1412730831090</updated>
+    </task>
+    <task id="LOCAL-00132">
+      <created>1412730840598</created>
+      <updated>1412730840598</updated>
+    </task>
+    <task id="LOCAL-00133">
+      <created>1412730858154</created>
+      <updated>1412730858154</updated>
+    </task>
+    <task id="LOCAL-00134">
+      <created>1412730879618</created>
+      <updated>1412730879618</updated>
+    </task>
+    <task id="LOCAL-00135">
+      <created>1412730893928</created>
+      <updated>1412730893928</updated>
+    </task>
+    <task id="LOCAL-00136">
+      <created>1412730907613</created>
+      <updated>1412730907614</updated>
+    </task>
+    <task id="LOCAL-00137">
+      <created>1412731062861</created>
+      <updated>1412731062861</updated>
+    </task>
+    <task id="LOCAL-00138">
+      <created>1412731119198</created>
+      <updated>1412731119198</updated>
+    </task>
+    <task id="LOCAL-00139">
+      <created>1412735034201</created>
+      <updated>1412735034201</updated>
+    </task>
+    <task id="LOCAL-00140">
+      <created>1412763723775</created>
+      <updated>1412763723775</updated>
+    </task>
+    <task id="LOCAL-00141">
+      <created>1412775445655</created>
+      <updated>1412775445655</updated>
+    </task>
+    <task id="LOCAL-00142">
+      <created>1412775460519</created>
+      <updated>1412775460519</updated>
+    </task>
+    <task id="LOCAL-00143">
+      <created>1412775474627</created>
+      <updated>1412775474627</updated>
+    </task>
+    <task id="LOCAL-00144">
+      <created>1412775485048</created>
+      <updated>1412775485049</updated>
+    </task>
+    <task id="LOCAL-00145">
+      <created>1412776422126</created>
+      <updated>1412776422126</updated>
+    </task>
+    <task id="LOCAL-00146">
+      <created>1412776481330</created>
+      <updated>1412776481330</updated>
+    </task>
+    <task id="LOCAL-00147">
+      <created>1412777444211</created>
+      <updated>1412777444211</updated>
+    </task>
+    <task id="LOCAL-00148">
+      <created>1412778134236</created>
+      <updated>1412778134236</updated>
+    </task>
+    <task id="LOCAL-00149">
+      <created>1412813363115</created>
+      <updated>1412813363116</updated>
+    </task>
+    <task id="LOCAL-00150">
+      <created>1412813371622</created>
+      <updated>1412813371622</updated>
+    </task>
+    <task id="LOCAL-00151">
+      <created>1413038151523</created>
+      <updated>1413038151523</updated>
+    </task>
+    <task id="LOCAL-00152" summary="Failed commit: Default">
+      <created>1413038215870</created>
+      <updated>1413038215870</updated>
+    </task>
+    <task id="LOCAL-00153">
+      <created>1413038236503</created>
+      <updated>1413038236503</updated>
+    </task>
+    <task id="LOCAL-00154">
+      <created>1413039751453</created>
+      <updated>1413039751454</updated>
+    </task>
+    <task id="LOCAL-00155">
+      <created>1413040674817</created>
+      <updated>1413040674817</updated>
+    </task>
+    <task id="LOCAL-00156">
+      <created>1413040680504</created>
+      <updated>1413040680504</updated>
+    </task>
+    <task id="LOCAL-00157">
+      <created>1413040717598</created>
+      <updated>1413040717598</updated>
+    </task>
+    <task id="LOCAL-00158">
+      <created>1413040902697</created>
+      <updated>1413040902697</updated>
+    </task>
+    <task id="LOCAL-00159">
+      <created>1413041395127</created>
+      <updated>1413041395127</updated>
+    </task>
+    <task id="LOCAL-00160">
+      <created>1413041414951</created>
+      <updated>1413041414951</updated>
+    </task>
+    <task id="LOCAL-00161">
+      <created>1413041828230</created>
+      <updated>1413041828230</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Failed commit: Default">
+      <created>1413043458106</created>
+      <updated>1413043458106</updated>
+    </task>
+    <task id="LOCAL-00163" summary="Failed commit: Default">
+      <created>1413044168427</created>
+      <updated>1413044168427</updated>
+    </task>
+    <task id="LOCAL-00164" summary="Failed commit: Default">
+      <created>1413044176941</created>
+      <updated>1413044176941</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Failed commit: Default">
+      <created>1413123012234</created>
+      <updated>1413123012234</updated>
+    </task>
+    <task id="LOCAL-00166" summary="Failed commit: Default">
+      <created>1413124528868</created>
+      <updated>1413124528868</updated>
+    </task>
+    <task id="LOCAL-00167" summary="Failed commit: Default">
+      <created>1413124547410</created>
+      <updated>1413124547410</updated>
+    </task>
+    <task id="LOCAL-00168" summary="Failed commit: Default">
+      <created>1413124850006</created>
+      <updated>1413124850006</updated>
+    </task>
+    <task id="LOCAL-00169" summary="Failed commit: Default">
+      <created>1413126034978</created>
+      <updated>1413126034978</updated>
+    </task>
+    <task id="LOCAL-00170" summary="Failed commit: Default">
+      <created>1413126232468</created>
+      <updated>1413126232468</updated>
+    </task>
+    <task id="LOCAL-00171">
+      <created>1413126274042</created>
+      <updated>1413126274042</updated>
+    </task>
+    <task id="LOCAL-00172">
+      <created>1413126309909</created>
+      <updated>1413126309909</updated>
+    </task>
+    <task id="LOCAL-00173">
+      <created>1413126322013</created>
+      <updated>1413126322013</updated>
+    </task>
+    <task id="LOCAL-00174">
+      <created>1413126330370</created>
+      <updated>1413126330370</updated>
+    </task>
+    <task id="LOCAL-00175">
+      <created>1413126339186</created>
+      <updated>1413126339186</updated>
+    </task>
+    <task id="LOCAL-00176">
+      <created>1413126348925</created>
+      <updated>1413126348925</updated>
+    </task>
+    <task id="LOCAL-00177">
+      <created>1413126359324</created>
+      <updated>1413126359324</updated>
+    </task>
+    <task id="LOCAL-00178">
+      <created>1413126417227</created>
+      <updated>1413126417227</updated>
+    </task>
+    <task id="LOCAL-00179">
+      <created>1413126477324</created>
+      <updated>1413126477324</updated>
+    </task>
+    <task id="LOCAL-00180">
+      <created>1413126666174</created>
+      <updated>1413126666174</updated>
+    </task>
+    <task id="LOCAL-00181">
+      <created>1413127826921</created>
+      <updated>1413127826921</updated>
+    </task>
+    <task id="LOCAL-00182">
+      <created>1413127837241</created>
+      <updated>1413127837241</updated>
+    </task>
+    <task id="LOCAL-00183">
+      <created>1413127851384</created>
+      <updated>1413127851384</updated>
+    </task>
+    <task id="LOCAL-00184">
+      <created>1413127875308</created>
+      <updated>1413127875308</updated>
+    </task>
+    <task id="LOCAL-00185">
+      <created>1413127884769</created>
+      <updated>1413127884769</updated>
+    </task>
+    <task id="LOCAL-00186">
+      <created>1413127893847</created>
+      <updated>1413127893847</updated>
+    </task>
+    <task id="LOCAL-00187">
+      <created>1413128885957</created>
+      <updated>1413128885957</updated>
+    </task>
+    <task id="LOCAL-00188">
+      <created>1413128894283</created>
+      <updated>1413128894283</updated>
+    </task>
+    <task id="LOCAL-00189">
+      <created>1413129017942</created>
+      <updated>1413129017942</updated>
+    </task>
+    <task id="LOCAL-00190">
+      <created>1413129035518</created>
+      <updated>1413129035518</updated>
+    </task>
+    <task id="LOCAL-00191">
+      <created>1413129042179</created>
+      <updated>1413129042179</updated>
+    </task>
+    <task id="LOCAL-00192">
+      <created>1413129062046</created>
+      <updated>1413129062046</updated>
+    </task>
+    <task id="LOCAL-00193">
+      <created>1413129087340</created>
+      <updated>1413129087340</updated>
+    </task>
+    <task id="LOCAL-00194">
+      <created>1413130355776</created>
+      <updated>1413130355776</updated>
+    </task>
+    <task id="LOCAL-00195">
+      <created>1413130370447</created>
+      <updated>1413130370447</updated>
+    </task>
+    <task id="LOCAL-00196">
+      <created>1413130386333</created>
+      <updated>1413130386333</updated>
+    </task>
+    <task id="LOCAL-00197">
+      <created>1413130744842</created>
+      <updated>1413130744842</updated>
+    </task>
+    <task id="LOCAL-00198">
+      <created>1413130765742</created>
+      <updated>1413130765742</updated>
+    </task>
+    <task id="LOCAL-00199">
+      <created>1413130784847</created>
+      <updated>1413130784847</updated>
+    </task>
+    <task id="LOCAL-00200">
+      <created>1413130800412</created>
+      <updated>1413130800412</updated>
+    </task>
+    <task id="LOCAL-00201">
+      <created>1413130870504</created>
+      <updated>1413130870504</updated>
+    </task>
+    <task id="LOCAL-00202">
+      <created>1413130957133</created>
+      <updated>1413130957133</updated>
+    </task>
+    <task id="LOCAL-00203">
+      <created>1413130977072</created>
+      <updated>1413130977072</updated>
+    </task>
+    <task id="LOCAL-00204">
+      <created>1413173018895</created>
+      <updated>1413173018895</updated>
+    </task>
+    <task id="LOCAL-00205">
+      <created>1413173273088</created>
+      <updated>1413173273088</updated>
+    </task>
+    <task id="LOCAL-00206">
+      <created>1413179474860</created>
+      <updated>1413179474860</updated>
+    </task>
+    <task id="LOCAL-00207">
+      <created>1413181117580</created>
+      <updated>1413181117580</updated>
+    </task>
+    <task id="LOCAL-00208">
+      <created>1413181370008</created>
+      <updated>1413181370008</updated>
+    </task>
+    <task id="LOCAL-00209">
+      <created>1413181530847</created>
+      <updated>1413181530847</updated>
+    </task>
+    <task id="LOCAL-00210">
+      <created>1413181702727</created>
+      <updated>1413181702727</updated>
+    </task>
+    <task id="LOCAL-00211">
+      <created>1413181718040</created>
+      <updated>1413181718040</updated>
+    </task>
+    <task id="LOCAL-00212">
+      <created>1413181832103</created>
+      <updated>1413181832103</updated>
+    </task>
+    <task id="LOCAL-00213">
+      <created>1413182825271</created>
+      <updated>1413182825272</updated>
+    </task>
+    <task id="LOCAL-00214">
+      <created>1413185747246</created>
+      <updated>1413185747247</updated>
+    </task>
+    <task id="LOCAL-00215">
+      <created>1413185785061</created>
+      <updated>1413185785062</updated>
+    </task>
+    <task id="LOCAL-00216">
+      <created>1413185793092</created>
+      <updated>1413185793092</updated>
+    </task>
+    <task id="LOCAL-00217">
+      <created>1413185805312</created>
+      <updated>1413185805312</updated>
+    </task>
+    <task id="LOCAL-00218">
+      <created>1413185815210</created>
+      <updated>1413185815210</updated>
+    </task>
+    <task id="LOCAL-00219">
+      <created>1413185848638</created>
+      <updated>1413185848638</updated>
+    </task>
+    <task id="LOCAL-00220">
+      <created>1413203135518</created>
+      <updated>1413203135518</updated>
+    </task>
+    <task id="LOCAL-00221">
+      <created>1413203247547</created>
+      <updated>1413203247548</updated>
+    </task>
+    <task id="LOCAL-00222">
+      <created>1413203258214</created>
+      <updated>1413203258214</updated>
+    </task>
+    <task id="LOCAL-00223">
+      <created>1413203896506</created>
+      <updated>1413203896506</updated>
+    </task>
+    <task id="LOCAL-00224">
+      <created>1413206154020</created>
+      <updated>1413206154020</updated>
+    </task>
+    <task id="LOCAL-00225">
+      <created>1413206195846</created>
+      <updated>1413206195846</updated>
+    </task>
+    <task id="LOCAL-00226">
+      <created>1413207621418</created>
+      <updated>1413207621418</updated>
+    </task>
+    <task id="LOCAL-00227">
+      <created>1413208504353</created>
+      <updated>1413208504353</updated>
+    </task>
+    <task id="LOCAL-00228">
+      <created>1413208921634</created>
+      <updated>1413208921635</updated>
+    </task>
+    <task id="LOCAL-00229">
+      <created>1413210718299</created>
+      <updated>1413210718299</updated>
+    </task>
+    <task id="LOCAL-00230">
+      <created>1413210733384</created>
+      <updated>1413210733385</updated>
+    </task>
+    <task id="LOCAL-00231">
+      <created>1413210943094</created>
+      <updated>1413210943094</updated>
+    </task>
+    <task id="LOCAL-00232">
+      <created>1413212498801</created>
+      <updated>1413212498802</updated>
+    </task>
+    <task id="LOCAL-00233">
+      <created>1413212563860</created>
+      <updated>1413212563860</updated>
+    </task>
+    <task id="LOCAL-00234">
+      <created>1413212577627</created>
+      <updated>1413212577627</updated>
+    </task>
+    <task id="LOCAL-00235">
+      <created>1413212800891</created>
+      <updated>1413212800891</updated>
+    </task>
+    <task id="LOCAL-00236">
+      <created>1413213000329</created>
+      <updated>1413213000329</updated>
+    </task>
+    <task id="LOCAL-00237">
+      <created>1413213059187</created>
+      <updated>1413213059187</updated>
+    </task>
+    <task id="LOCAL-00238">
+      <created>1413214476582</created>
+      <updated>1413214476582</updated>
+    </task>
+    <task id="LOCAL-00239">
+      <created>1413246966750</created>
+      <updated>1413246966750</updated>
+    </task>
+    <task id="LOCAL-00240">
+      <created>1413249498485</created>
+      <updated>1413249498485</updated>
+    </task>
+    <task id="LOCAL-00241">
+      <created>1413253464957</created>
+      <updated>1413253464957</updated>
+    </task>
+    <task id="LOCAL-00242">
+      <created>1413253472833</created>
+      <updated>1413253472833</updated>
+    </task>
+    <task id="LOCAL-00243">
+      <created>1413253502500</created>
+      <updated>1413253502500</updated>
+    </task>
+    <task id="LOCAL-00244">
+      <created>1413253744918</created>
+      <updated>1413253744918</updated>
+    </task>
+    <task id="LOCAL-00245">
+      <created>1413253760763</created>
+      <updated>1413253760763</updated>
+    </task>
+    <task id="LOCAL-00246">
+      <created>1413253774113</created>
+      <updated>1413253774113</updated>
+    </task>
+    <task id="LOCAL-00247">
+      <created>1413253783099</created>
+      <updated>1413253783099</updated>
+    </task>
+    <task id="LOCAL-00248">
+      <created>1413253791215</created>
+      <updated>1413253791215</updated>
+    </task>
+    <task id="LOCAL-00249">
+      <created>1413253822735</created>
+      <updated>1413253822736</updated>
+    </task>
+    <task id="LOCAL-00250">
+      <created>1413255127565</created>
+      <updated>1413255127565</updated>
+    </task>
+    <task id="LOCAL-00251">
+      <created>1413262432647</created>
+      <updated>1413262432647</updated>
+    </task>
+    <task id="LOCAL-00252">
+      <created>1413290109774</created>
+      <updated>1413290109774</updated>
+    </task>
+    <task id="LOCAL-00253">
+      <created>1413332618720</created>
+      <updated>1413332618721</updated>
+    </task>
+    <task id="LOCAL-00254">
+      <created>1413332649096</created>
+      <updated>1413332649096</updated>
+    </task>
+    <task id="LOCAL-00255">
+      <created>1413338440592</created>
+      <updated>1413338440593</updated>
+    </task>
+    <task id="LOCAL-00256">
+      <created>1413338581855</created>
+      <updated>1413338581855</updated>
+    </task>
+    <task id="LOCAL-00257">
+      <created>1413363194810</created>
+      <updated>1413363194810</updated>
+    </task>
+    <task id="LOCAL-00258">
+      <created>1413374062011</created>
+      <updated>1413374062011</updated>
+    </task>
+    <task id="LOCAL-00259">
+      <created>1413377567421</created>
+      <updated>1413377567421</updated>
+    </task>
+    <task id="LOCAL-00260">
+      <created>1413378532856</created>
+      <updated>1413378532856</updated>
+    </task>
+    <task id="LOCAL-00261">
+      <created>1413378558942</created>
+      <updated>1413378558942</updated>
+    </task>
+    <task id="LOCAL-00262">
+      <created>1413381124361</created>
+      <updated>1413381124361</updated>
+    </task>
+    <task id="LOCAL-00263">
+      <created>1413466383588</created>
+      <updated>1413466383588</updated>
+    </task>
+    <task id="LOCAL-00264">
+      <created>1413466395680</created>
+      <updated>1413466395680</updated>
+    </task>
+    <task id="LOCAL-00265">
+      <created>1413467171301</created>
+      <updated>1413467171301</updated>
+    </task>
+    <task id="LOCAL-00266">
+      <created>1413467261399</created>
+      <updated>1413467261399</updated>
+    </task>
+    <task id="LOCAL-00267">
+      <created>1413467385424</created>
+      <updated>1413467385424</updated>
+    </task>
+    <task id="LOCAL-00268">
+      <created>1413475311714</created>
+      <updated>1413475311714</updated>
+    </task>
+    <task id="LOCAL-00269">
+      <created>1413475379304</created>
+      <updated>1413475379305</updated>
+    </task>
+    <task id="LOCAL-00270">
+      <created>1413475401947</created>
+      <updated>1413475401947</updated>
+    </task>
+    <task id="LOCAL-00271">
+      <created>1413475411860</created>
+      <updated>1413475411860</updated>
+    </task>
+    <task id="LOCAL-00272">
+      <created>1413475447876</created>
+      <updated>1413475447876</updated>
+    </task>
+    <task id="LOCAL-00273">
+      <created>1413477372401</created>
+      <updated>1413477372401</updated>
+    </task>
+    <task id="LOCAL-00274">
+      <created>1413477618968</created>
+      <updated>1413477618968</updated>
+    </task>
+    <task id="LOCAL-00275">
+      <created>1413477692858</created>
+      <updated>1413477692858</updated>
+    </task>
+    <task id="LOCAL-00276">
+      <created>1413512735565</created>
+      <updated>1413512735566</updated>
+    </task>
+    <task id="LOCAL-00277">
+      <created>1413521354364</created>
+      <updated>1413521354364</updated>
+    </task>
+    <task id="LOCAL-00278">
+      <created>1413521458040</created>
+      <updated>1413521458040</updated>
+    </task>
+    <task id="LOCAL-00279">
+      <created>1413521540900</created>
+      <updated>1413521540900</updated>
+    </task>
+    <task id="LOCAL-00280">
+      <created>1413521821298</created>
+      <updated>1413521821298</updated>
+    </task>
+    <task id="LOCAL-00281">
+      <created>1413547965704</created>
+      <updated>1413547965705</updated>
+    </task>
+    <task id="LOCAL-00282">
+      <created>1413547973079</created>
+      <updated>1413547973079</updated>
+    </task>
+    <task id="LOCAL-00283">
+      <created>1413552613104</created>
+      <updated>1413552613104</updated>
+    </task>
+    <task id="LOCAL-00284">
+      <created>1413553986710</created>
+      <updated>1413553986710</updated>
+    </task>
+    <task id="LOCAL-00285">
+      <created>1413553993992</created>
+      <updated>1413553993992</updated>
+    </task>
+    <task id="LOCAL-00286">
+      <created>1413630549482</created>
+      <updated>1413630549482</updated>
+    </task>
+    <task id="LOCAL-00287">
+      <created>1413642359854</created>
+      <updated>1413642359854</updated>
+    </task>
+    <task id="LOCAL-00288">
+      <created>1413644080564</created>
+      <updated>1413644080564</updated>
+    </task>
+    <task id="LOCAL-00289">
+      <created>1413646237399</created>
+      <updated>1413646237399</updated>
+    </task>
+    <task id="LOCAL-00290">
+      <created>1413646243769</created>
+      <updated>1413646243769</updated>
+    </task>
+    <task id="LOCAL-00291">
+      <created>1414126989903</created>
+      <updated>1414126989903</updated>
+    </task>
+    <task id="LOCAL-00292">
+      <created>1414127037431</created>
+      <updated>1414127037431</updated>
+    </task>
+    <task id="LOCAL-00293">
+      <created>1414232884620</created>
+      <updated>1414232884620</updated>
+    </task>
+    <task id="LOCAL-00294">
+      <created>1414850345503</created>
+      <updated>1414850345503</updated>
+    </task>
+    <task id="LOCAL-00295">
+      <created>1414850352824</created>
+      <updated>1414850352824</updated>
+    </task>
+    <task id="LOCAL-00296">
+      <created>1414850360738</created>
+      <updated>1414850360738</updated>
+    </task>
+    <task id="LOCAL-00297">
+      <created>1414850375535</created>
+      <updated>1414850375535</updated>
+    </task>
+    <task id="LOCAL-00298">
+      <created>1414929410848</created>
+      <updated>1414929410848</updated>
+    </task>
+    <task id="LOCAL-00299">
+      <created>1414930024273</created>
+      <updated>1414930024273</updated>
+    </task>
+    <task id="LOCAL-00300">
+      <created>1414930198569</created>
+      <updated>1414930198569</updated>
+    </task>
+    <task id="LOCAL-00301">
+      <created>1414930207232</created>
+      <updated>1414930207232</updated>
+    </task>
+    <task id="LOCAL-00302">
+      <created>1415097410080</created>
+      <updated>1415097410080</updated>
+    </task>
+    <task id="LOCAL-00303">
+      <created>1415675397448</created>
+      <updated>1415675397448</updated>
+    </task>
+    <task id="LOCAL-00304">
+      <created>1415693141861</created>
+      <updated>1415693141861</updated>
+    </task>
+    <task id="LOCAL-00305">
+      <created>1431329295129</created>
+      <updated>1431329295129</updated>
+    </task>
+    <task id="LOCAL-00306">
+      <created>1431329305536</created>
+      <updated>1431329305536</updated>
+    </task>
+    <task id="LOCAL-00307">
+      <created>1431329314379</created>
+      <updated>1431329314379</updated>
+    </task>
+    <task id="LOCAL-00308">
+      <created>1431329325426</created>
+      <updated>1431329325426</updated>
+    </task>
+    <task id="LOCAL-00309">
+      <created>1431329332328</created>
+      <updated>1431329332328</updated>
+    </task>
+    <task id="LOCAL-00310">
+      <created>1431329342450</created>
+      <updated>1431329342450</updated>
+    </task>
+    <task id="LOCAL-00311">
+      <created>1431329414248</created>
+      <updated>1431329414248</updated>
+    </task>
+    <task id="LOCAL-00312">
+      <created>1431330142262</created>
+      <updated>1431330142262</updated>
+    </task>
+    <task id="LOCAL-00313">
+      <created>1431331353254</created>
+      <updated>1431331353255</updated>
+    </task>
+    <task id="LOCAL-00314">
+      <created>1431331369263</created>
+      <updated>1431331369263</updated>
+    </task>
+    <task id="LOCAL-00315">
+      <created>1431331411178</created>
+      <updated>1431331411178</updated>
+    </task>
+    <task id="LOCAL-00316">
+      <created>1431331419629</created>
+      <updated>1431331419629</updated>
+    </task>
+    <task id="LOCAL-00317">
+      <created>1431340702273</created>
+      <updated>1431340702273</updated>
+    </task>
+    <task id="LOCAL-00318">
+      <created>1431340725741</created>
+      <updated>1431340725741</updated>
+    </task>
+    <task id="LOCAL-00319">
+      <created>1431340782123</created>
+      <updated>1431340782123</updated>
+    </task>
+    <task id="LOCAL-00320">
+      <created>1431340797424</created>
+      <updated>1431340797424</updated>
+    </task>
+    <task id="LOCAL-00321">
+      <created>1431340805817</created>
+      <updated>1431340805817</updated>
+    </task>
+    <task id="LOCAL-00322">
+      <created>1431421245480</created>
+      <updated>1431421245480</updated>
+    </task>
+    <task id="LOCAL-00323">
+      <created>1431421290268</created>
+      <updated>1431421290268</updated>
+    </task>
+    <task id="LOCAL-00324">
+      <created>1431421299483</created>
+      <updated>1431421299483</updated>
+    </task>
+    <task id="LOCAL-00325">
+      <created>1431421313917</created>
+      <updated>1431421313917</updated>
+    </task>
+    <task id="LOCAL-00326">
+      <created>1431421326748</created>
+      <updated>1431421326749</updated>
+    </task>
+    <task id="LOCAL-00327">
+      <created>1431421397043</created>
+      <updated>1431421397043</updated>
+    </task>
+    <option name="localTasksCounter" value="328" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="349115000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1384" height="752" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32615894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4760274" sideWeight="0.67705166" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56125826" sideWeight="0.6413374" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.86986303" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270548" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4520548" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12160121" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33534744" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22734138" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42833608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="91" y="91" width="1178" height="552" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41721854" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41267124" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <confirmMoveToFailedCommit value="1" />
+    <MESSAGE value="Failed commit: Default" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/sf/jasperreports/engine/export/JRTextExporter.java</url>
+          <line>627</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/sf/jasperreports/engine/export/JRTextExporter.java</url>
+          <line>368</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/dao/_RootDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21731123" vertical-offset="1706" max-vertical-offset="4032">
+          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/Gratuity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17266187" vertical-offset="0" max-vertical-offset="720">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/actions/ViewGratuitiesAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="639" max-vertical-offset="1416">
+          <caret line="34" column="75" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.7/src.zip!/javax/swing/table/TableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.49807692" vertical-offset="859" max-vertical-offset="3000">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.7/src.zip!/javax/swing/table/AbstractTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3403846" vertical-offset="615" max-vertical-offset="7344">
+          <caret line="59" column="56" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModelFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1978" max-vertical-offset="3408">
+          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27016884" vertical-offset="96" max-vertical-offset="2040">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/ui/explorer/DrawerPullReportExplorer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20257826" vertical-offset="130" max-vertical-offset="3000">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/ui/BackOfficeWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4075" max-vertical-offset="5304">
+          <caret line="201" column="45" selection-start-line="201" selection-start-column="45" selection-end-line="201" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1082" max-vertical-offset="3216">
+          <caret line="76" column="84" selection-start-line="76" selection-start-column="84" selection-end-line="76" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_report_txn_detail.jrxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5925927" vertical-offset="5603" max-vertical-offset="6600">
+          <caret line="242" column="37" selection-start-line="242" selection-start-column="37" selection-end-line="242" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.7/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11851" max-vertical-offset="54744">
+          <caret line="557" column="17" selection-start-line="557" selection-start-column="4" selection-end-line="560" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/Ticket.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="2400">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/SalesReportTxnDetailModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="2400">
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TxnDetailReportItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="715" max-vertical-offset="1248">
+          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/dao/AttendenceHistoryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3010" max-vertical-offset="3624">
+          <caret line="137" column="12" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/dao/TicketDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8491" max-vertical-offset="10200">
+          <caret line="377" column="34" selection-start-line="377" selection-start-column="34" selection-end-line="377" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReportTxnDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1760" max-vertical-offset="3864">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hibernate.cfg.xml.1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4444447" vertical-offset="1242" max-vertical-offset="1560">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/inventory/InventoryGroup.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hibernate.mysql.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="1560">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/main/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4978" max-vertical-offset="8760">
+          <caret line="247" column="38" selection-start-line="247" selection-start-column="38" selection-end-line="247" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/main/PosWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="2328">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/util/ReceiptUploader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36923078" vertical-offset="504" max-vertical-offset="4128">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/ConfigurationView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="984">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/BannerConfigurationView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1872">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13224">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/base/BaseTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="22872">
+          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/order/TicketView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6280" max-vertical-offset="12456">
+          <caret line="341" column="46" selection-start-line="341" selection-start-column="46" selection-end-line="341" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/RestaurantConfigurationView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2501" max-vertical-offset="5592">
+          <caret line="118" column="65" selection-start-line="117" selection-start-column="8" selection-end-line="118" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1232" max-vertical-offset="1752">
+          <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/SettleTicketView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3811" max-vertical-offset="13176">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.7/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326923" vertical-offset="25627" max-vertical-offset="94848">
+          <caret line="1145" column="16" selection-start-line="1145" selection-start-column="16" selection-end-line="1145" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/util/AESencrp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="970" max-vertical-offset="1224">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/swing/QwertyKeyPad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2155" max-vertical-offset="4200">
+          <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/dialog/TransactionCompletionDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="3744">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/print/PosPrintService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3840" max-vertical-offset="22032">
+          <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/HostEnvConfigurationView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1608">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/net.authorize.aim.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="533">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/dao/SalesSummaryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="13536">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReportTXT.jrxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6296296" vertical-offset="193" max-vertical-offset="8496">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6296296" vertical-offset="193" max-vertical-offset="16608">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i18n/messages.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.2222223" vertical-offset="9240" max-vertical-offset="11496">
+          <caret line="392" column="0" selection-start-line="392" selection-start-column="0" selection-end-line="392" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/POSConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9160" max-vertical-offset="9672">
+          <caret line="386" column="103" selection-start-line="386" selection-start-column="103" selection-end-line="386" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i18n/messages_in_ID.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.76363635" vertical-offset="9678" max-vertical-offset="11544">
+          <caret line="405" column="37" selection-start-line="405" selection-start-column="37" selection-end-line="405" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2457" max-vertical-offset="4824">
+          <caret line="149" column="35" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.785714" vertical-offset="1518" max-vertical-offset="2208">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0" vertical-offset="5868" max-vertical-offset="12648">
+          <caret line="256" column="67" selection-start-line="256" selection-start-column="67" selection-end-line="256" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/images/new_ticket_32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18461539" vertical-offset="2592" max-vertical-offset="20328">
+          <caret line="143" column="34" selection-start-line="143" selection-start-column="34" selection-end-line="143" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>floreantpos:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2763819" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2763819" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>SASLib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5095477" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5095477" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>floreantpos</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2763819" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jasperreports-4.8.0 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2763819" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

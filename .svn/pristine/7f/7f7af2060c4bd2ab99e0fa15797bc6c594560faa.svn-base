@@ -1,0 +1,57 @@
+package com.floreantpos.config.ui;
+
+import com.floreantpos.config.AppConfig;
+import com.floreantpos.main.Application;
+import net.miginfocom.swing.MigLayout;
+
+import javax.swing.*;
+import java.awt.*;
+
+public class HostEnvConfigurationView extends ConfigurationView {
+
+    public static final String CONFIG_TAB_TAX = "Env";
+
+    private JCheckBox cbHostEnv = new JCheckBox("Mesin berjalan diatas Linux ARM (BeagleBone)");
+
+	public HostEnvConfigurationView() throws HeadlessException {
+		super();
+		initUI();
+
+	}
+
+	protected void initUI() {
+
+		setLayout(new MigLayout("fill", "[][grow,fill]", "[][][][][][][][grow,fill]"));
+
+        setLayout(new MigLayout("", "[]", "[]"));
+
+        add(cbHostEnv, "cell 0 0");
+
+	}
+
+    public boolean save() throws Exception {
+
+        Application.getInstance().setSystemInitialized(false);
+
+        AppConfig.setArmLinuxFlag(String.valueOf(cbHostEnv.isSelected()));
+
+        return true;
+
+    }
+
+	@Override
+	public void initialize() throws Exception {
+
+        String flag = AppConfig.getArmLinuxFlag();
+
+        cbHostEnv.setSelected(Boolean.valueOf(flag));
+
+        setInitialized(true);
+	}
+
+	@Override
+	public String getName() {
+		return "Host Environment";
+	}
+
+}

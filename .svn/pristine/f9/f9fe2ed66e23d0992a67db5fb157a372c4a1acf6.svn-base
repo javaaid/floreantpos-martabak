@@ -1,0 +1,33 @@
+# written by PropertiesConfiguration
+# Wed Oct 15 22:34:26 ICT 2014
+
+database_provider_name = Derby Single
+connection_string = jdbc:derby:database/derby-single/posdb
+database_url = localhost
+database_port = 1527
+database_name = posdb
+database_user = app
+database_pass = sa
+support-swipe-card = true
+support-card-manual-entry = true
+support-ext-terminal = true
+CARD_READER = SWIPE
+MerchantGateway = AUTHORIZE_NET
+MerchantAccount = 6tuU4N3H
+MerchantPass = qf9cIKiQdjGhOBjNTn+/rEhw/lFbiofDyxnO0LO/zsw=
+sandboxMode = true
+banner = Didukung oleh Bank KALSEL\nUntuk banua yang lebih baik\nHubungi Contact Center Bank KALSEL untuk segala jenis inquiry
+banner_delay = 9000
+report_printer_name = PDFCreator
+receipt_printer_name = EPSON TM-U220 Receipt
+kitchen_printer_name = PDFCreator
+arm_linux_flag = false
+bwwidth = 1378
+bwheight = 752
+bwx = -9
+bwy = 0
+terminal_id = 3715
+wwidth = 1384
+wheight = 786
+wlocx = -9
+wlocy = -9

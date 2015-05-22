@@ -1,0 +1,30 @@
+# written by PropertiesConfiguration
+# Sun Oct 05 20:16:40 ICT 2014
+
+database_provider_name = Derby Server
+connection_string = jdbc:derby://localhost:1527/posdb
+database_url = localhost
+database_port = 1527
+database_name = posdb
+database_user = app
+database_pass = sa
+report_printer_name = PDFCreator
+receipt_printer_name = EPSON TM-U220 Receipt
+kitchen_printer_name = EPSON TM-U220 Receipt
+support-swipe-card = true
+support-card-manual-entry = true
+support-ext-terminal = true
+CARD_READER = SWIPE
+MerchantGateway = AUTHORIZE_NET
+MerchantAccount = 6tuU4N3H
+MerchantPass = qf9cIKiQdjGhOBjNTn+/rEhw/lFbiofDyxnO0LO/zsw=
+sandboxMode = true
+bwwidth = 1378
+bwheight = 752
+bwx = -9
+bwy = -9
+wwidth = 1366
+wheight = 768
+wlocx = 0
+wlocy = 0
+terminal_id = 3715
