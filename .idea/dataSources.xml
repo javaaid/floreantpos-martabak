@@ -7,7 +7,11 @@
       <jdbc-url>jdbc:derby://localhost/posdb</jdbc-url>
       <user-name>app</user-name>
       <user-password>dfd9dfcb</user-password>
-      <libraries />
+      <libraries>
+        <library>
+          <url>file://C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\xml-apis-1.3.02.jar</url>
+        </library>
+      </libraries>
     </data-source>
     <data-source source="LOCAL" name="hibernate.mysql.cfg.xml" uuid="ef2d2360-91f0-4157-adc7-17a44223b15c">
       <driver-ref>derby.remote</driver-ref>

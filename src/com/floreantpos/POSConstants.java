@@ -338,6 +338,7 @@ public class POSConstants {
 	public static final String CAPITAL_CLOCK_OUT = Messages.getString("Switchboard.21"); //$NON-NLS-1$
 	public static final String CAPITAL_MANAGER = Messages.getString("Switchboard.22"); //$NON-NLS-1$
 	public static final String CAPITAL_BACK_OFFICE = Messages.getString("Switchboard.23"); //$NON-NLS-1$
+	public static final String CAPITAL_SALES_REPORT= Messages.getString("Switchboard.37"); //$NON-NLS-1$fasd
 	public static final String CAPITAL_LOGOUT = Messages.getString("Switchboard.24"); //$NON-NLS-1$
 	public static final String CAPITAL_SHUTDOWN = Messages.getString("Switchboard.25"); //$NON-NLS-1$
 	public static final String CAPITAL_INFO = Messages.getString("Switchboard.26"); //$NON-NLS-1$

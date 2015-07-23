@@ -5,7 +5,7 @@
   </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="floreantpos:jar" />
+      <artifact name="floreantpos-martabak:jar" />
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
@@ -26,17 +26,18 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGES" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/derby.log" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/net.authorize.aim.log" />
-      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos\resources\META-INF\mvn-assembly.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\.idea\libraries\All_Jars.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\resources\META-INF\mvn-assembly.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/asm-1.5.3.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/asm-attrs-1.5.3.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/asm-commons-3.0.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/asm-tree-3.0.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/local-lib/cglib-2.1_3.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\httpclient-4.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\httpcore-4.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jasperreports-4.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\httpclient-4.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\httpcore-4.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\jasperreports-4.0.1.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jasper" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jasper" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\actualsize.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\actualsize.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\actualsize.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\actualsize.GIF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c10.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c10.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c101.dat" afterPath="$PROJECT_DIR$/database/derby-server/posdb/seg0/c101.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c101.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/c101.dat" />
@@ -172,61 +173,72 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf71.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf71.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf81.dat" afterPath="$PROJECT_DIR$/database/derby-single/posdb/seg0/cf81.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\first.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\first.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\first.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\first.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitpage.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitpage.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitwidth.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\fitwidth.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos\110\jpos-110.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos\110\jpos-110.jar" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos-controls\110\jpos-controls-110.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos\local-lib\jpos\jpos-controls\110\jpos-controls-110.jar" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\jricon.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\jricon.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\local-lib\net\xeoh\jspf.core\1.0.2\jspf.core-1.0.2.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos\local-lib\net\xeoh\jspf.core\1.0.2\jspf.core-1.0.2.jar" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\last.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\last.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\last.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\last.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\first.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\first.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\first.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\first.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\fitpage.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\fitpage.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\fitwidth.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\fitwidth.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\jpos\jpos\110\jpos-110.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\jpos\jpos\110\jpos-110.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\jpos\jpos-controls\110\jpos-controls-110.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\jpos\jpos-controls\110\jpos-controls-110.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\jricon.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\jricon.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\net\xeoh\jspf.core\1.0.2\jspf.core-1.0.2.jar" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\local-lib\net\xeoh\jspf.core\1.0.2\jspf.core-1.0.2.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\last.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\last.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\last.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\last.GIF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/log/log.ctrl" afterPath="$PROJECT_DIR$/database/derby-server/posdb/log/log.ctrl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/log/log.ctrl" afterPath="$PROJECT_DIR$/database/derby-single/posdb/log/log.ctrl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/database/derby-server/posdb/log/logmirror.ctrl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/database/derby-single/posdb/log/logmirror.ctrl" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\next.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\next.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\next.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\next.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\previous.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\previous.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\previous.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\previous.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\print.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\print.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\redo.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\redo.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\reload.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\reload.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\next.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\next.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\next.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\next.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\previous.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\previous.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\previous.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\previous.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\print.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\print.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\redo.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\redo.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\reload.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\reload.GIF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_sub_report.jasper" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_sub_report.jasper" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\save.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\save.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\save.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\save.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undo.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undo.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undoall.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\web\servlets\resources\viewer\undoall.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomin.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomin.GIF" />
-      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomout.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos\src\net\sf\jasperreports\view\images\zoomout.GIF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/All_Jars.xml" afterPath="$PROJECT_DIR$/.idea/libraries/All_Jars.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\save.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\save.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\save.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\save.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\undo.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\undo.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\undoall.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\web\servlets\resources\viewer\undoall.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\zoomin.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\zoomin.GIF" />
+      <change type="MODIFICATION" beforePath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\zoomout.GIF" afterPath="C:\Users\Leonar Tambunan\floreantpos-martabak\src\net\sf\jasperreports\view\images\zoomout.GIF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/bo/ui/BackOfficeWindow.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/bo/ui/BackOfficeWindow.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/main/Main.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/main/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/util/NumberUtil.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/util/NumberUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/POSConstants.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/POSConstants.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/PasswordScreen.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/PasswordScreen.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/PaymentView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/PaymentView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/main/PosWindow.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/main/PosWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/ReportViewer.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/ReportViewer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReport.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReport.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModelFactory.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModelFactory.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/SalesReportPerTxnAction.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/SalesReportPerTxnAction.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReportTxnDetail.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReportTxnDetail.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/SettleTicketView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/SettleTicketView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/bo/ui/explorer/TicketExplorer.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/bo/ui/explorer/TicketExplorer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml" afterPath="$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/views/order/TicketView.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/views/order/TicketView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/util/UiUtil.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/util/UiUtil.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/bo/actions/ViewGratuitiesAction.java" afterPath="$PROJECT_DIR$/src/com/floreantpos/bo/actions/ViewGratuitiesAction.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filters/app.properties" afterPath="$PROJECT_DIR$/filters/app.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/db.lck" afterPath="$PROJECT_DIR$/database/derby-server/posdb/db.lck" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-single/posdb/db.lck" afterPath="$PROJECT_DIR$/database/derby-single/posdb/db.lck" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/derby.log" afterPath="$PROJECT_DIR$/database/derby-server/derby.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floreantpos.config.properties" afterPath="$PROJECT_DIR$/floreantpos.config.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i18n/messages.properties" afterPath="$PROJECT_DIR$/i18n/messages.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i18n/messages_in_ID.properties" afterPath="$PROJECT_DIR$/i18n/messages_in_ID.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_sub_report.jrxml" afterPath="$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_sub_report.jrxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/derby-server/posdb/service.properties" afterPath="$PROJECT_DIR$/database/derby-server/posdb/service.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/start.bat" afterPath="$PROJECT_DIR$/start.bat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="floreantpos.iws" />
@@ -295,114 +307,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JReportPrintService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java">
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0" vertical-offset="5868" max-vertical-offset="12648">
-              <caret line="256" column="67" selection-start-line="256" selection-start-column="67" selection-end-line="256" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="POSConstants.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/POSConstants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="9160" max-vertical-offset="9672">
-              <caret line="386" column="103" selection-start-line="386" selection-start-column="103" selection-end-line="386" selection-end-column="103" />
+            <state vertical-scroll-proportion="0.14917128" vertical-offset="279" max-vertical-offset="2832">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="messages_in_ID.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/i18n/messages_in_ID.properties">
-          <provider editor-type-id="ResourceBundle">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.76363635" vertical-offset="9678" max-vertical-offset="11544">
-              <caret line="405" column="37" selection-start-line="405" selection-start-column="37" selection-end-line="405" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppConfig.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2457" max-vertical-offset="4824">
-              <caret line="149" column="35" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SwitchboardView.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18461539" vertical-offset="2592" max-vertical-offset="20328">
-              <caret line="143" column="34" selection-start-line="143" selection-start-column="34" selection-end-line="143" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new_ticket_32.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/images/new_ticket_32.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FeaturesView.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.785714" vertical-offset="1518" max-vertical-offset="2208">
-              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="messages.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/i18n/messages.properties">
-          <provider editor-type-id="ResourceBundle">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.2222223" vertical-offset="9240" max-vertical-offset="11496">
-              <caret line="392" column="0" selection-start-line="392" selection-start-column="0" selection-end-line="392" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TicketReceiptReport.jrxml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6296296" vertical-offset="193" max-vertical-offset="12864">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TicketReceiptReportTXT.jrxml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReportTXT.jrxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6296296" vertical-offset="193" max-vertical-offset="8496">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
           </provider>
         </entry>
       </file>
@@ -413,21 +324,18 @@
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Documents/Downloads/mifosx-develop/mifosx-develop/mifosng-provider" value="4257718653000" />
+        <entry key="$USER_HOME$/android-client" value="4258845094569" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesSummaryReportView.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/report/SalesExceptionReport.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/model/base/BaseRestaurant.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/model/Restaurant.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/DatabaseConfigurationView.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/DatabaseConfigurationDialog.java" />
-        <option value="$PROJECT_DIR$/resources/hibernate.mysql.cfg.xml" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/dialog/CashDropDialog.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/main/Application.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/main/MainMobile.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/util/NumberUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/main/Main.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/ui/dialog/LicenseDialog.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/PaymentView.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/MainMenuAdditionalsView.java" />
@@ -435,16 +343,13 @@
         <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/PasswordScreen.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/TaxConfigurationView.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/ui/dialog/CashDrawerReportDialog.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/ReportViewer.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/SalesReportPerTxnAction.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/SettleTicketView.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/model/Gratuity.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/model/base/BaseTicket.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/model/dao/_RootDAO.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/util/ReceiptUploader.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/RestaurantConfigurationView.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/bo/actions/ViewGratuitiesAction.java" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/bo/ui/BackOfficeWindow.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModel.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/report/TxnDetailReportItem.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/report/SalesReportTxnDetailModel.java" />
@@ -461,12 +366,26 @@
         <option value="$PROJECT_DIR$/src/com/floreantpos/swing/QwertyKeyPad.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/print/PosPrintService.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/model/dao/SalesSummaryDAO.java" />
-        <option value="$PROJECT_DIR$/i18n/messages_in_ID.properties" />
-        <option value="$PROJECT_DIR$/src/com/floreantpos/POSConstants.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/SettleTicketView.java" />
+        <option value="$PROJECT_DIR$/i18n/messages.properties" />
+        <option value="$PROJECT_DIR$/i18n/messages_in_ID.properties" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/POSConstants.java" />
         <option value="$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/bo/ui/SalesReportWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/bo/ui/BackOfficeWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/DailyTxnReport.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModelFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/DailyTxnReportModel.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/report/DailyTxnReportModelFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/ReportViewer.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/util/UiUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/DailyReportViewer.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/DailyTxnReportAction.java" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/ui/report/daily_txn.jrxml" />
+        <option value="$PROJECT_DIR$/src/com/floreantpos/main/Main.java" />
       </list>
     </option>
   </component>
@@ -604,17 +523,139 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="floreantpos" />
+              <option name="myItemId" value="floreantpos-martabak" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="report" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floreantpos-martabak" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -624,68 +665,30 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="project.propCompiler" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/local-lib/httpcore-4.3.2.jar!/" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2763819" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="59" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="84" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="83" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="37" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="126" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="892" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="64" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="79" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="83" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="63" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="63" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="942" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
-    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
-    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
-    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
-    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
-    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="floreantpos" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.floreantpos.report" />
       <recent name="com.floreantpos.ui.report" />
+      <recent name="com.floreantpos.report" />
       <recent name="com.floreantpos.ui.report.actions" />
+      <recent name="com.floreantpos.bo.ui" />
       <recent name="com.floreantpos.config.ui" />
-      <recent name="com.floreantpos.ui.dialog" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Leonar Tambunan\floreantpos-martabak\resources\images" />
       <recent name="C:\Users\Leonar Tambunan\floreantpos\local-lib" />
       <recent name="C:\Users\Leonar Tambunan\floreantpos\platform-lib" />
       <recent name="C:\Users\Leonar Tambunan\floreantpos\resources\images" />
       <recent name="C:\Users\Leonar Tambunan\floreantpos\src\com\floreantpos\report" />
-      <recent name="C:\Users\Leonar Tambunan\floreantpos\src" />
     </key>
     <key name="MoveMembersDialog.RECENTS_KEY">
       <recent name="com.floreantpos.AppConstants.ColumnName" />
@@ -714,7 +717,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="floreantpos" />
+      <module name="floreantpos-martabak" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -972,20 +975,20 @@
     <option name="myMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
-          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos-martabak" />
+          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos-martabak" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos\.idea" />
-          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos\.idea" />
+          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos-martabak\.idea" />
+          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos-martabak\.idea" />
         </SvnCopyRootSimple>
       </list>
     </option>
     <option name="myMoreRealMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
-          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos" />
+          <option name="myVcsRoot" value="C:\Users\Leonar Tambunan\floreantpos-martabak" />
+          <option name="myCopyRoot" value="C:\Users\Leonar Tambunan\floreantpos-martabak" />
         </SvnCopyRootSimple>
       </list>
     </option>
@@ -1116,6 +1119,14 @@
       <workItem from="1431488083590" duration="1598000" />
       <workItem from="1431697685302" duration="45000" />
       <workItem from="1431697738124" duration="5566000" />
+      <workItem from="1435765211844" duration="2702000" />
+      <workItem from="1435802120991" duration="5700000" />
+      <workItem from="1435894141177" duration="3406000" />
+      <workItem from="1435908591335" duration="455000" />
+      <workItem from="1435914892071" duration="526000" />
+      <workItem from="1436150551406" duration="2754000" />
+      <workItem from="1436769293023" duration="88000" />
+      <workItem from="1436769552371" duration="300000" />
     </task>
     <task id="LOCAL-00001">
       <created>1412416529692</created>
@@ -2429,7 +2440,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349115000" />
+    <option name="totallyTimeSpent" value="365046000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -2453,7 +2464,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1384" height="752" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32615894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2461,7 +2472,6 @@
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4760274" sideWeight="0.67705166" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -2471,20 +2481,21 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.86986303" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270548" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4520548" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12160121" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33534744" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22734138" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42833608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26510575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4280822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="91" y="91" width="1178" height="552" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41721854" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47431508" sideWeight="0.67705166" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45034248" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41267124" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2537,199 +2548,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/dao/_RootDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21731123" vertical-offset="1706" max-vertical-offset="4032">
-          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/Gratuity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17266187" vertical-offset="0" max-vertical-offset="720">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/actions/ViewGratuitiesAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="639" max-vertical-offset="1416">
-          <caret line="34" column="75" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.7/src.zip!/javax/swing/table/TableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.49807692" vertical-offset="859" max-vertical-offset="3000">
-          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.7/src.zip!/javax/swing/table/AbstractTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3403846" vertical-offset="615" max-vertical-offset="7344">
-          <caret line="59" column="56" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModelFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1978" max-vertical-offset="3408">
-          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27016884" vertical-offset="96" max-vertical-offset="2040">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/ui/explorer/DrawerPullReportExplorer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20257826" vertical-offset="130" max-vertical-offset="3000">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/ui/BackOfficeWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4075" max-vertical-offset="5304">
-          <caret line="201" column="45" selection-start-line="201" selection-start-column="45" selection-end-line="201" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1082" max-vertical-offset="3216">
-          <caret line="76" column="84" selection-start-line="76" selection-start-column="84" selection-end-line="76" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_report_txn_detail.jrxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5925927" vertical-offset="5603" max-vertical-offset="6600">
-          <caret line="242" column="37" selection-start-line="242" selection-start-column="37" selection-end-line="242" selection-end-column="37" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.7/src.zip!/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="11851" max-vertical-offset="54744">
-          <caret line="557" column="17" selection-start-line="557" selection-start-column="4" selection-end-line="560" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/Ticket.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="2400">
-          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/SalesReportTxnDetailModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="2400">
-          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TxnDetailReportItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="715" max-vertical-offset="1248">
-          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/dao/AttendenceHistoryDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3010" max-vertical-offset="3624">
-          <caret line="137" column="12" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/dao/TicketDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8491" max-vertical-offset="10200">
-          <caret line="377" column="34" selection-start-line="377" selection-start-column="34" selection-end-line="377" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReportTxnDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1760" max-vertical-offset="3864">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hibernate.cfg.xml.1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4444447" vertical-offset="1242" max-vertical-offset="1560">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/model/inventory/InventoryGroup.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/hibernate.mysql.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="1560">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/main/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4978" max-vertical-offset="8760">
-          <caret line="247" column="38" selection-start-line="247" selection-start-column="38" selection-end-line="247" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/main/PosWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="2328">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/util/ReceiptUploader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36923078" vertical-offset="504" max-vertical-offset="4128">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/ConfigurationView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="984">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/BannerConfigurationView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1872">
@@ -2769,15 +2587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1232" max-vertical-offset="1752">
           <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/SettleTicketView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3811" max-vertical-offset="13176">
-          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2792,7 +2601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="970" max-vertical-offset="1224">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2800,7 +2608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2155" max-vertical-offset="4200">
           <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2808,7 +2615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="3744">
           <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2816,7 +2622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3840" max-vertical-offset="22032">
           <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2824,7 +2629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1608">
           <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2839,85 +2643,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="13536">
           <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReportTXT.jrxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6296296" vertical-offset="193" max-vertical-offset="8496">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReport.jrxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6296296" vertical-offset="193" max-vertical-offset="16608">
+        <state vertical-scroll-proportion="0.0" vertical-offset="193" max-vertical-offset="12864">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/i18n/messages.properties">
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.2222223" vertical-offset="9240" max-vertical-offset="11496">
-          <caret line="392" column="0" selection-start-line="392" selection-start-column="0" selection-end-line="392" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/POSConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="9160" max-vertical-offset="9672">
-          <caret line="386" column="103" selection-start-line="386" selection-start-column="103" selection-end-line="386" selection-end-column="103" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/i18n/messages_in_ID.properties">
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.76363635" vertical-offset="9678" max-vertical-offset="11544">
-          <caret line="405" column="37" selection-start-line="405" selection-start-column="37" selection-end-line="405" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2457" max-vertical-offset="4824">
-          <caret line="149" column="35" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/ui/FeaturesView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.785714" vertical-offset="1518" max-vertical-offset="2208">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1968" max-vertical-offset="2376">
           <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/JReportPrintService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0" vertical-offset="5868" max-vertical-offset="12648">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6144" max-vertical-offset="12840">
           <caret line="256" column="67" selection-start-line="256" selection-start-column="67" selection-end-line="256" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2926,10 +2676,247 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/TicketReceiptReportTXT.jrxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="8496">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2496" max-vertical-offset="4824">
+          <caret line="155" column="5" selection-start-line="155" selection-start-column="5" selection-end-line="155" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filters/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/main/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="8760">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/PaymentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9384">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/SettleTicketView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1128" max-vertical-offset="14232">
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/images/back_office.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/config/AppProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23703703" vertical-offset="128" max-vertical-offset="648">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/dialog/PaymentTypeSelectionDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76666665" vertical-offset="105" max-vertical-offset="2400">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/dialog/POSDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2287582" vertical-offset="1784" max-vertical-offset="2304">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/payment/ConfirmPayDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3174062" vertical-offset="526" max-vertical-offset="1656">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i18n/messages_in_ID.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8219" max-vertical-offset="11568">
+          <caret line="349" column="22" selection-start-line="349" selection-start-column="22" selection-end-line="349" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/ui/SalesReportWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.323077" vertical-offset="1208" max-vertical-offset="6024">
+          <caret line="79" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/SalesReportPerTxnAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26915887" vertical-offset="0" max-vertical-offset="888">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/SalesReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="3264">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7356322" vertical-offset="0" max-vertical-offset="2040">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/bo/ui/BackOfficeWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2487" max-vertical-offset="5328">
+          <caret line="130" column="38" selection-start-line="130" selection-start-column="38" selection-end-line="130" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/SalesReportAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18011257" vertical-offset="0" max-vertical-offset="888">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/SalesReportModelFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.092307694" vertical-offset="0" max-vertical-offset="3720">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/POSConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2035" max-vertical-offset="9696">
+          <caret line="92" column="65" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i18n/messages.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326572" vertical-offset="7132" max-vertical-offset="11520">
+          <caret line="304" column="0" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/views/SwitchboardView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18461539" vertical-offset="2592" max-vertical-offset="20328">
-          <caret line="143" column="34" selection-start-line="143" selection-start-column="34" selection-end-line="143" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="10008" max-vertical-offset="21888">
+          <caret line="417" column="13" selection-start-line="417" selection-start-column="13" selection-end-line="417" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/util/UiUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81988746" vertical-offset="283" max-vertical-offset="960">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/ReportViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41538462" vertical-offset="0" max-vertical-offset="4104">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/DailyTxnReportModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10714286" vertical-offset="123" max-vertical-offset="1848">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/actions/DailyTxnReportAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.0" vertical-offset="28" max-vertical-offset="888">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/report/DailyTxnReportModelFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-119.85714" vertical-offset="28" max-vertical-offset="4152">
+          <caret line="141" column="5" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0" vertical-offset="600" max-vertical-offset="1200">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/sales_report.jrxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="5640" max-vertical-offset="6600">
+          <caret line="238" column="74" selection-start-line="238" selection-start-column="60" selection-end-line="238" selection-end-column="74" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/daily_txn.jrxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14604463" vertical-offset="5640" max-vertical-offset="6600">
+          <caret line="238" column="76" selection-start-line="238" selection-start-column="76" selection-end-line="238" selection-end-column="76" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/DailyReportViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6785715" vertical-offset="209" max-vertical-offset="3984">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/ui/report/DailyTxnReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26519337" vertical-offset="936" max-vertical-offset="3672">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/floreantpos/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14917128" vertical-offset="279" max-vertical-offset="2832">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -2939,12 +2926,20 @@
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
-          <artifact-editor />
-          <last-edited>floreantpos:jar</last-edited>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>floreantpos-martabak:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2763819" />
+                <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -2956,7 +2951,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2763819" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -2968,7 +2963,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.5095477" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -2980,7 +2975,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.5095477" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -2988,11 +2983,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>floreantpos</last-edited>
+          <last-edited>floreantpos-martabak</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2763819" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -3012,11 +3007,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>jasperreports-4.8.0 (2)</last-edited>
+          <last-edited>local-lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2763819" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>

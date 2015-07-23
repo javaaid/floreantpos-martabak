@@ -1,9 +1,3 @@
-/*
- * ReportViewer.java
- *
- * Created on September 17, 2006, 11:38 PM
- */
-
 package com.floreantpos.ui.report;
 
 import com.floreantpos.bo.ui.BackOfficeWindow;
@@ -13,10 +7,6 @@ import com.floreantpos.ui.util.UiUtil;
 
 import java.util.Date;
 
-/**
- *
- * @author  MShahriar
- */
 public class ReportViewer extends javax.swing.JPanel {
     private Report report;
     

@@ -128,6 +128,7 @@ public class BackOfficeWindow extends javax.swing.JFrame {
 	private void createReportMenu(JMenuBar menuBar) {
 		JMenu reportMenu = new JMenu(com.floreantpos.POSConstants.REPORTS);
 
+        reportMenu.add(new DailyTxnReportAction());
         reportMenu.add(new SalesReportAction());
         reportMenu.add(new SalesReportPerTxnAction());
 

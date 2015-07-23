@@ -1,11 +1,9 @@
 package com.floreantpos.report;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.List;
-
+import com.floreantpos.main.Application;
+import com.floreantpos.model.Ticket;
+import com.floreantpos.model.TicketItem;
+import com.floreantpos.model.dao.TicketDAO;
 import net.sf.jasperreports.engine.JREmptyDataSource;
 import net.sf.jasperreports.engine.JasperFillManager;
 import net.sf.jasperreports.engine.JasperPrint;
@@ -13,13 +11,9 @@ import net.sf.jasperreports.engine.JasperReport;
 import net.sf.jasperreports.engine.data.JRTableModelDataSource;
 import net.sf.jasperreports.engine.util.JRLoader;
 import net.sf.jasperreports.view.JasperViewer;
-
 import org.jdesktop.swingx.calendar.DateUtils;
 
-import com.floreantpos.main.Application;
-import com.floreantpos.model.Ticket;
-import com.floreantpos.model.TicketItem;
-import com.floreantpos.model.dao.TicketDAO;
+import java.util.*;
 
 public class SalesReportModelFactory {
 	private Date startDate;

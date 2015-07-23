@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/floreantpos.iml" filepath="$PROJECT_DIR$/floreantpos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floreantpos-martabak.iml" filepath="$PROJECT_DIR$/floreantpos-martabak.iml" />
     </modules>
   </component>
 </project>

@@ -19,6 +19,8 @@ import com.floreantpos.model.dao.TicketDAO;
 import com.floreantpos.services.TicketService;
 import com.floreantpos.swing.PosButton;
 import com.floreantpos.ui.dialog.*;
+import com.floreantpos.ui.report.ReportViewer;
+import com.floreantpos.ui.report.SalesReport;
 import com.floreantpos.ui.views.order.DefaultOrderServiceExtension;
 import com.floreantpos.ui.views.order.OrderView;
 import com.floreantpos.ui.views.order.RootView;
@@ -52,6 +54,7 @@ public class SwitchboardView extends JPanel implements ActionListener {
     public SwitchboardView() {
         initComponents();
 
+        btnSalesReport.addActionListener(this);
         btnBackOffice.addActionListener(this);
         btnClockOut.addActionListener(this);
         btnEditTicket.addActionListener(this);
@@ -127,6 +130,7 @@ public class SwitchboardView extends JPanel implements ActionListener {
         btnShutdown = new com.floreantpos.swing.PosButton();
         btnLogout = new com.floreantpos.swing.PosButton();
         btnBackOffice = new com.floreantpos.swing.PosButton();
+        btnSalesReport = new com.floreantpos.swing.PosButton();
 
         btnManager = new com.floreantpos.swing.PosButton();
         btnClockOut = new com.floreantpos.swing.PosButton();
@@ -267,6 +271,9 @@ public class SwitchboardView extends JPanel implements ActionListener {
         btnBackOffice.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/back_office.png")));
         btnBackOffice.setText(POSConstants.CAPITAL_BACK_OFFICE);
 
+        btnSalesReport.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/salesreport.png")));
+        btnSalesReport.setText(POSConstants.CAPITAL_SALES_REPORT);
+
         if( ! "false".equalsIgnoreCase(AppConfig.getManagerMenuFlag())) {
             btnManager.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/user_32.png")));
             btnManager.setText(POSConstants.CAPITAL_MANAGER);
@@ -279,8 +286,9 @@ public class SwitchboardView extends JPanel implements ActionListener {
 
         bottomPanel.add(bottomRightPanel, java.awt.BorderLayout.EAST);
         bottomRightPanel.setLayout(new MigLayout("aligny bottom, insets 1 2 1 2, gapy 10", "[170px]", "[][][][][]"));
-        bottomRightPanel.add(btnShutdown, "cell 0 4,grow");
-        bottomRightPanel.add(btnLogout, "cell 0 3,grow");
+        bottomRightPanel.add(btnShutdown, "cell 0 5,grow");
+        bottomRightPanel.add(btnLogout, "cell 0 4,grow");
+        bottomRightPanel.add(btnSalesReport, "cell 0 3,grow");
 
         if( ! "false".equalsIgnoreCase(AppConfig.getFeatureClockOutFlag())) {
             bottomRightPanel.add(btnClockOut, "cell 0 2,grow");
@@ -403,6 +411,24 @@ public class SwitchboardView extends JPanel implements ActionListener {
         user.doClockOut(attendenceHistory, shift, calendar);
 
         Application.getInstance().logout();
+    }
+
+    private synchronized void doShowSalesReport() {
+
+        BackOfficeWindow window = BackOfficeWindow.getInstance();
+        JTabbedPane tabbedPane = window.getTabbedPane();
+
+        ReportViewer viewer = null;
+        int index = tabbedPane.indexOfTab(com.floreantpos.POSConstants.SALES_REPORT);
+        if (index == -1) {
+            viewer = new ReportViewer(new SalesReport());
+            tabbedPane.addTab(com.floreantpos.POSConstants.SALES_REPORT, viewer);
+        } else {
+            viewer = (ReportViewer) tabbedPane.getComponentAt(index);
+        }
+        tabbedPane.setSelectedComponent(viewer);
+
+        window.setVisible(true);
     }
 
     private synchronized void doShowBackoffice() {
@@ -759,6 +785,7 @@ public class SwitchboardView extends JPanel implements ActionListener {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private com.floreantpos.swing.PosButton btnSalesReport;
     private com.floreantpos.swing.PosButton btnBackOffice;
     private com.floreantpos.swing.PosButton btnClockOut;
     private com.floreantpos.swing.PosButton btnEditTicket;
@@ -795,6 +822,9 @@ public class SwitchboardView extends JPanel implements ActionListener {
 
     public void actionPerformed(ActionEvent e) {
         Object source = e.getSource();
+        if (source == btnSalesReport) {
+            doShowSalesReport(); //TODO
+        }
         if (source == btnBackOffice) {
             doShowBackoffice();
         }

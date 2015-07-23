@@ -209,7 +209,7 @@ public class SettleTicketView extends POSDialog implements CardInputListener {
 	public void doSettle() {
 		try {
 
-			PaymentTypeSelectionDialog dialog = new PaymentTypeSelectionDialog();
+			/*PaymentTypeSelectionDialog dialog = new PaymentTypeSelectionDialog();
 			dialog.setResizable(false);
 			dialog.pack();
 			dialog.open();
@@ -223,21 +223,25 @@ public class SettleTicketView extends POSDialog implements CardInputListener {
 			tenderedAmount = paymentView.getTenderedAmount();
 
 			switch (paymentType) {
-				case CASH:
-					ConfirmPayDialog confirmPayDialog = new ConfirmPayDialog();
-					confirmPayDialog.setAmount(tenderedAmount);
-					confirmPayDialog.open();
+				case CASH:*/
 
-					if (confirmPayDialog.isCanceled()) {
-						return;
-					}
+            tenderedAmount = paymentView.getTenderedAmount();
+
+            //ConfirmPayDialog confirmPayDialog = new ConfirmPayDialog();
+//					confirmPayDialog.setAmount(tenderedAmount);
+//					confirmPayDialog.open();
+//
+//					if (confirmPayDialog.isCanceled()) {
+//						return;
+//					}
 
 					if (settleTickets(tenderedAmount, new CashTransaction(), null, null)) {
 						setCanceled(false);
 						dispose();
 					}
-					break;
+//					break;
 
+/*
 				case CREDIT_VISA:
 				case CREDIT_MASTER_CARD:
 				case CREDIT_AMEX:
@@ -252,8 +256,9 @@ public class SettleTicketView extends POSDialog implements CardInputListener {
 
 				default:
 					break;
-			}
 
+			}
+*/
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

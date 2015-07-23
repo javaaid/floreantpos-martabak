@@ -25,4 +25,13 @@ public class UiUtil {
 		
 		return datePicker;
 	}
+
+	public static JXDatePicker getCurrentDate() {
+		Locale locale = Locale.getDefault();
+		Calendar c = Calendar.getInstance(locale);
+//		c.set(Calendar.DAY_OF_MONTH, c.getActualMaximum(Calendar.DAY_OF_MONTH));
+		JXDatePicker datePicker = new JXDatePicker(c.getTime(), locale);
+
+		return datePicker;
+	}
 }
