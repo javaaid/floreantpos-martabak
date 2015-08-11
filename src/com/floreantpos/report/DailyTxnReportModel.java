@@ -2,6 +2,7 @@ package com.floreantpos.report;
 
 import com.floreantpos.POSConstants;
 import com.floreantpos.main.Application;
+import com.floreantpos.model.Ticket;
 import com.floreantpos.util.NumberUtil;
 
 import javax.swing.table.AbstractTableModel;
@@ -11,9 +12,8 @@ public class DailyTxnReportModel extends AbstractTableModel {
 
 	private String currencySymbol;
 
-	private String[] columnNames = {"TicketID",
-            POSConstants.TOTAL};
-	private List<ReportItem> items;
+	private String[] columnNames = {"ID", "TOTAL_PRICE"};
+	private List<Ticket> items;
 	private double grandTotal;
 
 	public DailyTxnReportModel() {
@@ -39,24 +39,23 @@ public class DailyTxnReportModel extends AbstractTableModel {
 	}
 
 	public Object getValueAt(int rowIndex, int columnIndex) {
-		ReportItem item = items.get(rowIndex);
+        Ticket item = items.get(rowIndex);
 		
 		switch(columnIndex) {
 			case 0:
-				return item.getId();
-				
+				return ""+item.getId();
 			case 1:
-                return " " + NumberUtil.formatToCurrency(item.getTotal());
+                return " " + NumberUtil.formatToCurrency(item.getTotalAmount());
 		}
 
 		return null;
 	}
 
-	public List<ReportItem> getItems() {
+	public List<Ticket> getItems() {
 		return items;
 	}
 
-	public void setItems(List<ReportItem> items) {
+	public void setItems(List<Ticket> items) {
 		this.items = items;
 	}
 
@@ -72,14 +71,14 @@ public class DailyTxnReportModel extends AbstractTableModel {
 		this.grandTotal = grandTotal;
 	}
 
-	public void calculateGrandTotal() {
-		grandTotal = 0;
-		if(items == null) {
-			return;
-		}
-		
-		for (ReportItem item : items) {
-			grandTotal += item.getTotal();
-		}
-	}
+    public void calculateGrandTotal() {
+        grandTotal = 0;
+        if(items == null) {
+            return;
+        }
+
+        for (Ticket item : items) {
+            grandTotal += item.getTotalAmount();
+        }
+    }
 }

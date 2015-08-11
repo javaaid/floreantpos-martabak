@@ -1,0 +1,27 @@
+                              
+    Demo Restaurant           
+        Jakarta               
+      +6262626262             
+                              
+  *** PAYMENT RECEIPT         
+  CHK#: 9                     
+  Server: Admin User          
+  Printed: 8/11/15, 1:32 AM   
+                              
+                              
+ ITEM         QTY        SUB  
+ ...........................  
+  Coke         10       20,00 
+ ...........................  
+                              
+        Total  Rp       20,00 
+          Tax  Rp        1,20 
+                              
+   Net Amount  Rp       21,20 
+  Paid Amount  Rp       23,00 
+                              
+   Due Amount  Rp        0,00 
+   Change Due  Rp        1,80 
+                              
+
+

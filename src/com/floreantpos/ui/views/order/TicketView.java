@@ -212,6 +212,7 @@ public class TicketView extends JPanel {
 				doFinishOrder(evt);
 			}
 		});
+        btnFinish.setEnabled(false);
 		controlPanel.add(btnFinish, "cell 1 1,grow");
 
 		btnIncreaseAmount.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/add_user_32.png")));

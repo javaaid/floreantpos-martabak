@@ -13,8 +13,8 @@
 	<parameter name="currencySymbol" class="java.lang.String" isForPrompting="false">
 		<defaultValueExpression><![CDATA["$"]]></defaultValueExpression>
 	</parameter>
-	<field name="Total" class="java.lang.String"/>
-	<field name="TicketID" class="java.lang.String"/>
+	<field name="TOTAL_PRICE" class="java.lang.String"/>
+	<field name="ID" class="java.lang.String"/>
 	<background>
 		<band splitType="Stretch"/>
 	</background>
@@ -82,7 +82,7 @@
 						<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#000000"/>
 					</box>
 					<textElement verticalAlignment="Middle"/>
-					<textFieldExpression><![CDATA[$F{TicketID}]]></textFieldExpression>
+					<textFieldExpression><![CDATA[$F{ID}]]></textFieldExpression>
 				</textField>
 				<textField pattern="¤ #,##0.00" isBlankWhenNull="true">
 					<reportElement uuid="6138a337-76ee-47dc-9fc5-7c9554888f30" key="textField-3" mode="Transparent" x="77" y="0" width="110" height="18"/>
@@ -93,7 +93,7 @@
 						<rightPen lineWidth="0.5" lineStyle="Solid" lineColor="#000000"/>
 					</box>
 					<textElement textAlignment="Right" verticalAlignment="Middle"/>
-					<textFieldExpression><![CDATA[$F{Total}]]></textFieldExpression>
+					<textFieldExpression><![CDATA[$F{TOTAL_PRICE}]]></textFieldExpression>
 				</textField>
 			</elementGroup>
 		</band>

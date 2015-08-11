@@ -28,8 +28,8 @@ public class Main  {
 	 */
 	public static void main(String[] args) throws Exception {
 
-        if (isLicenseValid()) {
-//        if (true) { //todo remove later
+//        if (isLicenseValid()) {
+        if (true) { //todo remove later
 
             Options options = new Options();
             options.addOption(DEVELOPMENT_MODE, true, "State if this is developmentMode");

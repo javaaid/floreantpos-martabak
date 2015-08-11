@@ -19,6 +19,7 @@ import com.floreantpos.model.dao.TicketDAO;
 import com.floreantpos.services.TicketService;
 import com.floreantpos.swing.PosButton;
 import com.floreantpos.ui.dialog.*;
+import com.floreantpos.ui.report.DailyTxnReport;
 import com.floreantpos.ui.report.ReportViewer;
 import com.floreantpos.ui.report.SalesReport;
 import com.floreantpos.ui.views.order.DefaultOrderServiceExtension;
@@ -419,10 +420,13 @@ public class SwitchboardView extends JPanel implements ActionListener {
         JTabbedPane tabbedPane = window.getTabbedPane();
 
         ReportViewer viewer = null;
-        int index = tabbedPane.indexOfTab(com.floreantpos.POSConstants.SALES_REPORT);
+//        int index = tabbedPane.indexOfTab(com.floreantpos.POSConstants.SALES_REPORT);
+        int index = tabbedPane.indexOfTab("Transaksi Harian");
         if (index == -1) {
-            viewer = new ReportViewer(new SalesReport());
-            tabbedPane.addTab(com.floreantpos.POSConstants.SALES_REPORT, viewer);
+//            viewer = new ReportViewer(new SalesReport());
+            viewer = new ReportViewer(new DailyTxnReport());
+//            tabbedPane.addTab(POSConstants.SALES_REPORT, viewer);
+            tabbedPane.addTab("Transaksi Harian", viewer);
         } else {
             viewer = (ReportViewer) tabbedPane.getComponentAt(index);
         }
@@ -823,7 +827,7 @@ public class SwitchboardView extends JPanel implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         Object source = e.getSource();
         if (source == btnSalesReport) {
-            doShowSalesReport(); //TODO
+            doShowSalesReport();
         }
         if (source == btnBackOffice) {
             doShowBackoffice();
